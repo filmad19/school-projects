@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15sp"
+        android:text="Textfield-Formatter"
+        android:textAlignment="center"
+        android:textColor="#FF9800"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etText"
+        android:layout_width="match_parent"
+        android:layout_height="200sp"
+        android:layout_below="@id/tvTitle"
+        android:ems="10"
+        android:fontFamily="@font/aclonica"
+        android:gravity="left"
+        android:inputType="textPersonName"
+        android:maxLines="5"
+        android:text="test textt" />
+
+    <TextView
+        android:id="@+id/tvStyle"
+        android:layout_width="120sp"
+        android:layout_height="48dp"
+        android:layout_below="@id/etText"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="10sp"
+        android:text="Style:"
+        android:textAlignment="gravity"
+        android:textSize="20sp" />
+
+    <CheckBox
+        android:id="@+id/cbBold"
+        android:layout_width="120sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etText"
+        android:layout_toRightOf="@id/tvStyle"
+        android:text="bold"
+        android:textAlignment="textStart"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/cbItalic"
+        android:layout_width="113dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etText"
+        android:layout_toRightOf="@id/cbBold"
+        android:text="italic"
+        android:textAlignment="textStart"
+        android:textSize="16sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/tvSize"
+        android:layout_width="60sp"
+        android:layout_height="48dp"
+        android:layout_below="@id/tvStyle"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="10sp"
+        android:text="Size:"
+        android:textAlignment="gravity"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/etSize"
+        android:layout_width="60sp"
+        android:layout_height="48dp"
+        android:layout_below="@id/tvStyle"
+        android:layout_toRightOf="@id/tvSize"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="10sp"
+        android:text="12"
+        android:textAlignment="gravity"
+        android:textSize="20sp" />
+
+    <SeekBar
+        android:id="@+id/sbSize"
+        android:layout_width="233dp"
+        android:layout_height="48dp"
+        android:layout_below="@id/tvStyle"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_toRightOf="@id/etSize"
+        android:max="36"
+        android:min="12" />
+
+    <TextView
+        android:id="@+id/tvFont"
+        android:layout_width="120sp"
+        android:layout_height="48dp"
+        android:layout_below="@id/tvSize"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="10sp"
+        android:text="Font:"
+        android:textAlignment="gravity"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:id="@+id/rgFonts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvSize"
+        android:layout_toRightOf="@id/tvFont">
+
+        <RadioButton
+            android:id="@+id/rbAclonica"
+            android:layout_width="180sp"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:fontFamily="@font/aclonica"
+            android:text="Aclonica" />
+
+        <RadioButton
+            android:id="@+id/rbAtomicAge"
+            android:layout_width="180sp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/atomic_age"
+            android:text="Atomic Age" />
+
+        <RadioButton
+            android:id="@+id/rbBungeeShade"
+            android:layout_width="180sp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bungee_shade"
+            android:text="Bungee Shade" />
+
+    </RadioGroup>
+
+</RelativeLayout>
