@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FF9800"
+    android:padding="5sp"
+    android:stretchColumns="*">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:padding="2dp"
+            android:text="Title:" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="258dp"
+            android:layout_height="wrap_content"
+            android:maxWidth="258dp"
+            android:padding="2dp"
+            android:textColor="#E91E63"
+            android:textSize="20sp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:padding="2dp"
+            android:text="Author:" />
+
+        <TextView
+            android:id="@+id/tvAuthor"
+            android:layout_width="258dp"
+            android:layout_height="wrap_content"
+            android:maxWidth="258dp"
+            android:padding="2dp"
+            android:text="Author"
+            android:textColor="#2196F3"
+            android:textSize="20sp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:id="@+id/tvReleaseDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:padding="2dp"
+            android:text="yyyy/mm" />
+
+        <TextView
+            android:id="@+id/tvISBN"
+            android:layout_width="258dp"
+            android:layout_height="wrap_content"
+            android:maxWidth="258dp"
+            android:padding="2dp"
+            android:text="........."
+            android:textAlignment="textEnd" />
+    </TableRow>
+</TableLayout>

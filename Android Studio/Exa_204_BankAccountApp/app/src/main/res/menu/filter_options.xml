@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miAll"
+        android:title="All Accouts" />
+    <item
+        android:id="@+id/miStudents"
+        android:title="Student Accounts" />
+    <item
+        android:id="@+id/miGiro"
+        android:title="Giro Accounts" />
+</menu>

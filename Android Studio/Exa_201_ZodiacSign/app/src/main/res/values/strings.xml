@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exa_201_ZodiacSign</string>
+    <string name="date_format">%s bis %s</string>
+    <string name="wikipedia_url">https://de.m.wikipedia.org/wiki/%s_(Tierkreiszeichen)</string>
+</resources>
