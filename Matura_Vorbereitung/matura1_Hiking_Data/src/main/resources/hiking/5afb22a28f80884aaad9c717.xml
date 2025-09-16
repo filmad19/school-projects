@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trk>
+    <name>1 Colere Ferrantini Ferrante 001</name>
+    <trkseg>
+        <trkpt lat="45.97638317383826" lon="10.073072416707873">
+            <ele>30.0</ele>
+        </trkpt>
+        <trkpt lat="45.97641753964126" lon="10.073061939328909">
+            <ele>30.0</ele>
+        </trkpt>
+    </trkseg>
+</trk>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trk>
+    <trkseg>
+        <trkpt lat="38.832718983" lon="-0.018468483">
+            <ele>0.0</ele>
+            <time>2018-03-22T08:32:35Z</time>
+        </trkpt>
+        <trkpt lat="38.839148216" lon="-0.006714366">
+            <ele>226.0</ele>
+            <time>2018-03-22T10:11:28Z</time>
+        </trkpt>
+        <trkpt lat="38.840996183" lon="-0.013658866">
+            <ele>341.0</ele>
+            <time>2018-03-22T11:21:41Z</time>
+        </trkpt>
+        <trkpt lat="38.839811016" lon="-0.01893695">
+            <ele>384.0</ele>
+            <time>2018-03-22T11:36:13Z</time>
+        </trkpt>
+        <trkpt lat="38.838158066" lon="-0.020995966">
+            <ele>504.0</ele>
+            <time>2018-03-22T12:22:56Z</time>
+        </trkpt>
+        <trkpt lat="38.835138616" lon="-0.013279049">
+            <ele>109.0</ele>
+            <time>2018-03-22T13:17:57Z</time>
+        </trkpt>
+        <trkpt lat="38.832731049" lon="-0.019052816">
+            <ele>-160.0</ele>
+            <time>2018-03-22T13:35:52Z</time>
+        </trkpt>
+    </trkseg>
+</trk>

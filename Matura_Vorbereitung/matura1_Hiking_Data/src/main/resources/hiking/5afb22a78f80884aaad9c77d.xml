@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trk>
+    <name>Traccia corrente: 15 APR 2018 08:47</name>
+    <trkseg>
+        <trkpt lat="45.991413" lon="8.482781">
+            <ele>428.889984</ele>
+            <time>2018-04-15T13:10:59Z</time>
+        </trkpt>
+        <trkpt lat="45.991203" lon="8.482263">
+            <ele>429.850006</ele>
+            <time>2018-04-15T13:11:40Z</time>
+        </trkpt>
+        <trkpt lat="45.990376" lon="8.481743">
+            <ele>435.609985</ele>
+            <time>2018-04-15T13:13:02Z</time>
+        </trkpt>
+        <trkpt lat="45.989933" lon="8.481593">
+            <ele>438.5</ele>
+            <time>2018-04-15T13:13:44Z</time>
+        </trkpt>
+        <trkpt lat="45.988434" lon="8.481814">
+            <ele>440.899994</ele>
+            <time>2018-04-15T13:15:51Z</time>
+        </trkpt>
+        <trkpt lat="45.987785" lon="8.481328">
+            <ele>442.339996</ele>
+            <time>2018-04-15T13:16:50Z</time>
+        </trkpt>
+        <trkpt lat="45.987629" lon="8.481015">
+            <ele>442.820007</ele>
+            <time>2018-04-15T13:17:12Z</time>
+        </trkpt>
+        <trkpt lat="45.987091" lon="8.481089">
+            <ele>443.789978</ele>
+            <time>2018-04-15T13:17:57Z</time>
+        </trkpt>
+        <trkpt lat="45.986271" lon="8.480213">
+            <ele>445.230011</ele>
+            <time>2018-04-15T13:19:26Z</time>
+        </trkpt>
+        <trkpt lat="45.984554" lon="8.479854">
+            <ele>448.589996</ele>
+            <time>2018-04-15T13:22:00Z</time>
+        </trkpt>
+        <trkpt lat="45.9837" lon="8.479162">
+            <ele>449.070007</ele>
+            <time>2018-04-15T13:24:12Z</time>
+        </trkpt>
+    </trkseg>
+</trk>

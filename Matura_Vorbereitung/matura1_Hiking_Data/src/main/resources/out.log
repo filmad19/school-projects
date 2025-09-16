@@ -1,0 +1,2800 @@
+{
+  "name" : "Move",
+  "distance" : 11279.101375302404,
+  "elePos" : 632.7941544381401,
+  "eleNeg" : 1385.29415443814,
+  "analyzeTime" : 38544600
+},
+{
+  "name" : "Cima di Grom",
+  "distance" : 14042.476887502438,
+  "elePos" : 1548.40002441406,
+  "eleNeg" : 1548.30004882812,
+  "analyzeTime" : 37198600
+},
+{
+  "name" : "SC2b_Embres-et-Castelmaure",
+  "distance" : 15947.1421581563,
+  "elePos" : 496.6999999999998,
+  "eleNeg" : 519.6999999999998,
+  "analyzeTime" : 29033500
+},
+{
+  "name" : "Monticello, Roccapiana (Burrone Giovanelli) 1943",
+  "distance" : 20782.663675532014,
+  "elePos" : 2103.5100000000007,
+  "eleNeg" : 2098.7100000000005,
+  "analyzeTime" : 767100
+},
+{
+  "name" : "Current Track: 03 APR 2018 12:22",
+  "distance" : 14875.2870691211,
+  "elePos" : 620.5118400000003,
+  "eleNeg" : 592.1654400000002,
+  "analyzeTime" : 340200
+},
+{
+  "name" : null,
+  "distance" : 7299.50367470218,
+  "elePos" : 353.97678242369125,
+  "eleNeg" : 353.97678242369125,
+  "analyzeTime" : 348100
+},
+{
+  "name" : "2018-03-17 12:42:57",
+  "distance" : 37438.79676361101,
+  "elePos" : 1034.0100000000002,
+  "eleNeg" : 1074.3600000000001,
+  "analyzeTime" : 366800
+},
+{
+  "name" : "Monte Biaena (Sentiero del Somator)",
+  "distance" : 12754.15073112115,
+  "elePos" : 1050.26,
+  "eleNeg" : 1055.0700000000002,
+  "analyzeTime" : 250200
+},
+{
+  "name" : null,
+  "distance" : 10302.287762665714,
+  "elePos" : 714.9290450504927,
+  "eleNeg" : 720.2291007303716,
+  "analyzeTime" : 278200
+},
+{
+  "name" : null,
+  "distance" : 12874.222043044603,
+  "elePos" : 1064.9898060000003,
+  "eleNeg" : 1066.929809,
+  "analyzeTime" : 279500
+},
+{
+  "name" : "3 Ebni - Seelmatten",
+  "distance" : 2521.108549227567,
+  "elePos" : 20.719999999999914,
+  "eleNeg" : 239.55999999999995,
+  "analyzeTime" : 116300
+},
+{
+  "name" : "Lombardia - Lago di Como - Bellagio - Como",
+  "distance" : 36311.70028286808,
+  "elePos" : 2647.58984375,
+  "eleNeg" : 2657.3125,
+  "analyzeTime" : 384700
+},
+{
+  "name" : null,
+  "distance" : 4979.857431917267,
+  "elePos" : 231.75000000000028,
+  "eleNeg" : 48.040000000000305,
+  "analyzeTime" : 130700
+},
+{
+  "name" : "2018-04-14 16:54:09",
+  "distance" : 20394.10094986116,
+  "elePos" : 853.16,
+  "eleNeg" : 576.78,
+  "analyzeTime" : 311500
+},
+{
+  "name" : null,
+  "distance" : 7654.907117461534,
+  "elePos" : 405.669921875,
+  "eleNeg" : 327.3299255371094,
+  "analyzeTime" : 184600
+},
+{
+  "name" : "18-4-28-camoghe garzirola",
+  "distance" : 19367.241911563466,
+  "elePos" : 1761.037902,
+  "eleNeg" : 1771.9862050000002,
+  "analyzeTime" : 417700
+},
+{
+  "name" : "2018-03-16 16:27:01",
+  "distance" : 14216.357673336373,
+  "elePos" : 499.1200000000002,
+  "eleNeg" : 572.4600000000002,
+  "analyzeTime" : 193100
+},
+{
+  "name" : "4 Burgwies - Botanischer Garten",
+  "distance" : 1265.5418301483032,
+  "elePos" : 17.300000000000068,
+  "eleNeg" : 25.06000000000006,
+  "analyzeTime" : 95100
+},
+{
+  "name" : "Traccia corrente: 14 APR 2018 08:39",
+  "distance" : 47931.571454858116,
+  "elePos" : 1464.0299999999997,
+  "eleNeg" : 1492.3900000000006,
+  "analyzeTime" : 406300
+},
+{
+  "name" : "Move",
+  "distance" : 6318.5510352289375,
+  "elePos" : 609.0111160408297,
+  "eleNeg" : 1635.4111404548898,
+  "analyzeTime" : 135000
+},
+{
+  "name" : null,
+  "distance" : 8662.51688539334,
+  "elePos" : 444.9376039008866,
+  "eleNeg" : 445.3376063445136,
+  "analyzeTime" : 264900
+},
+{
+  "name" : "2018-03-09T13:28:54Z_Gajum_to_Forcella dei Corni",
+  "distance" : 9843.651294865367,
+  "elePos" : 991.7460632363667,
+  "eleNeg" : 993.1117017950183,
+  "analyzeTime" : 225500
+},
+{
+  "name" : "ACTIVE LOG: 06 APR 2018 10:24",
+  "distance" : 15933.39038152187,
+  "elePos" : 349.4500000000002,
+  "eleNeg" : 327.8200000000002,
+  "analyzeTime" : 192700
+},
+{
+  "name" : "2018-05-06 16:16:38",
+  "distance" : 21195.90408381725,
+  "elePos" : 909.4099999999999,
+  "eleNeg" : 893.55,
+  "analyzeTime" : 415900
+},
+{
+  "name" : "Mont Lion",
+  "distance" : 3698.2948163683986,
+  "elePos" : 646.32,
+  "eleNeg" : 20.609999999999957,
+  "analyzeTime" : 163400
+},
+{
+  "name" : "2018-03-16T13:08:50Z_Rongio_to_Zucco Manavello ",
+  "distance" : 5439.859517699283,
+  "elePos" : 739.9827421613146,
+  "eleNeg" : 735.5478548063338,
+  "analyzeTime" : 121600
+},
+{
+  "name" : "ACTIVE LOG: 14 APR 2018 08:17",
+  "distance" : 10331.546177044478,
+  "elePos" : 171.58000000000004,
+  "eleNeg" : 166.77000000000004,
+  "analyzeTime" : 274000
+},
+{
+  "name" : "2018-05-06_Hennenkopf",
+  "distance" : 15245.31336423854,
+  "elePos" : 960.81,
+  "eleNeg" : 984.3599999999999,
+  "analyzeTime" : 455400
+},
+{
+  "name" : "Sugiez - Motier - Mont Vully - Sugiez",
+  "distance" : 11486.239759896964,
+  "elePos" : 256.66499707495376,
+  "eleNeg" : 256.66499707495376,
+  "analyzeTime" : 168400
+},
+{
+  "name" : null,
+  "distance" : 54531.41876313626,
+  "elePos" : 35481.6748046875,
+  "eleNeg" : 1820.6168823242188,
+  "analyzeTime" : 307300
+},
+{
+  "name" : "Move",
+  "distance" : 19186.071547714088,
+  "elePos" : 1730.4563160808814,
+  "eleNeg" : 1695.2563038738504,
+  "analyzeTime" : 232100
+},
+{
+  "name" : null,
+  "distance" : 8412.821598720975,
+  "elePos" : 437.49995740917257,
+  "eleNeg" : 437.299956243196,
+  "analyzeTime" : 215600
+},
+{
+  "name" : "Caspai, Palo, Savallo, Reai, Ortosei 1936",
+  "distance" : 21860.695213965402,
+  "elePos" : 1803.9400000000007,
+  "eleNeg" : 1806.8200000000006,
+  "analyzeTime" : 595500
+},
+{
+  "name" : "chamben via Wasserfall und Geissrügge",
+  "distance" : 7406.835660062906,
+  "elePos" : 635.7998967890683,
+  "eleNeg" : 635.7998967890683,
+  "analyzeTime" : 127800
+},
+{
+  "name" : "round top from woods lake",
+  "distance" : 12215.607922351035,
+  "elePos" : 744.8000000000002,
+  "eleNeg" : 741.6000000000004,
+  "analyzeTime" : 223500
+},
+{
+  "name" : "Monte Bregagno 1937",
+  "distance" : 20222.57132203954,
+  "elePos" : 1652.52,
+  "eleNeg" : 1681.8400000000006,
+  "analyzeTime" : 675100
+},
+{
+  "name" : "My_Seconda Tappa 2018_02_14 per report",
+  "distance" : 9071.529530263502,
+  "elePos" : 361.5234375,
+  "eleNeg" : 250.8203125,
+  "analyzeTime" : 339600
+},
+{
+  "name" : "Medel (Lucmagn) Corsa",
+  "distance" : 7394.720636229284,
+  "elePos" : 672.2000732421875,
+  "eleNeg" : 688.8001708984375,
+  "analyzeTime" : 312800
+},
+{
+  "name" : "Monte Pidaggia",
+  "distance" : 11127.76172013436,
+  "elePos" : 1009.3699999999999,
+  "eleNeg" : 1025.23,
+  "analyzeTime" : 412200
+},
+{
+  "name" : "wildspitz 2018-03-10",
+  "distance" : 10488.449530785098,
+  "elePos" : 894.1146466653727,
+  "eleNeg" : 891.9146888842348,
+  "analyzeTime" : 242100
+},
+{
+  "name" : "Traccia corrente: 29 GEN 2018 08:21",
+  "distance" : 22011.43858696257,
+  "elePos" : 748.38,
+  "eleNeg" : 745.9799999999998,
+  "analyzeTime" : 317400
+},
+{
+  "name" : "Regitzer Spitz",
+  "distance" : 10221.656846923233,
+  "elePos" : 871.43,
+  "eleNeg" : 892.8399999999999,
+  "analyzeTime" : 257700
+},
+{
+  "name" : "2018-05-06 08:12",
+  "distance" : 10236.88824259363,
+  "elePos" : 1025.6,
+  "eleNeg" : 1029.83,
+  "analyzeTime" : 273700
+},
+{
+  "name" : "2018-03-14 09:11",
+  "distance" : 12958.379358530487,
+  "elePos" : 1212.4700000000003,
+  "eleNeg" : 1209.47,
+  "analyzeTime" : 130000
+},
+{
+  "name" : "2018-04-15 13:29:45",
+  "distance" : 4216.225690621621,
+  "elePos" : 737.9300000000001,
+  "eleNeg" : 675.7,
+  "analyzeTime" : 253800
+},
+{
+  "name" : null,
+  "distance" : 7086.968331503164,
+  "elePos" : 526.1029064084346,
+  "eleNeg" : 526.2029062012825,
+  "analyzeTime" : 168800
+},
+{
+  "name" : "Day 33 2017/2018",
+  "distance" : 9382.88368192125,
+  "elePos" : 1230.0,
+  "eleNeg" : 1247.0,
+  "analyzeTime" : 106100
+},
+{
+  "name" : "2017-02-15-10-33-37 on GPSies.com",
+  "distance" : 4612.006493294773,
+  "elePos" : 281.0,
+  "eleNeg" : 289.0,
+  "analyzeTime" : 184200
+},
+{
+  "name" : "Amarron",
+  "distance" : 11001.652663103407,
+  "elePos" : 514.4999999999999,
+  "eleNeg" : 480.1999999999999,
+  "analyzeTime" : 282600
+},
+{
+  "name" : "ARVOIRA-14 15:22:58",
+  "distance" : 11375.22187707071,
+  "elePos" : 1152.6099999999997,
+  "eleNeg" : 1134.3500000000004,
+  "analyzeTime" : 470700
+},
+{
+  "name" : "BE Petersinsel",
+  "distance" : 11702.683858712202,
+  "elePos" : 45.770000000000266,
+  "eleNeg" : 45.71000000000009,
+  "analyzeTime" : 137700
+},
+{
+  "name" : "mostelegg",
+  "distance" : 12616.905938349335,
+  "elePos" : 732.0751643596677,
+  "eleNeg" : 732.0751643596677,
+  "analyzeTime" : 159300
+},
+{
+  "name" : "2018-02-03 16:20:35",
+  "distance" : 18893.847034780938,
+  "elePos" : 486.91000000000133,
+  "eleNeg" : 476.3400000000014,
+  "analyzeTime" : 167400
+},
+{
+  "name" : "Traccia corrente: 15 APR 2018 08:47",
+  "distance" : 951.8417487158908,
+  "elePos" : 20.18002299999995,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 97400
+},
+{
+  "name" : "engelstock",
+  "distance" : 10819.089017711845,
+  "elePos" : 734.2021212698011,
+  "eleNeg" : 734.1021202971988,
+  "analyzeTime" : 315200
+},
+{
+  "name" : "Zuccone campelli e pesciola",
+  "distance" : 9960.18606704795,
+  "elePos" : 962.55993652344,
+  "eleNeg" : 961.75988769532,
+  "analyzeTime" : 274700
+},
+{
+  "name" : "3 Chellenchöpfli - Langenbruck",
+  "distance" : 6465.808716993766,
+  "elePos" : 173.00000000000034,
+  "eleNeg" : 625.2800000000003,
+  "analyzeTime" : 178400
+},
+{
+  "name" : "3 Abzw. Hofwiesenbächli - Giessen - Turbenthal",
+  "distance" : 2383.0844635975977,
+  "elePos" : 51.65000000000009,
+  "eleNeg" : 101.97000000000003,
+  "analyzeTime" : 111000
+},
+{
+  "name" : "Mtbgp",
+  "distance" : 12389.016702230463,
+  "elePos" : 697.0,
+  "eleNeg" : 758.0,
+  "analyzeTime" : 313300
+},
+{
+  "name" : "1 Colere Ferrantini Ferrante 001",
+  "distance" : 3.906133570064446,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 52500
+},
+{
+  "name" : "Mont Rachais",
+  "distance" : 3118.5342509359916,
+  "elePos" : 478.6199999999999,
+  "eleNeg" : 40.559999999999945,
+  "analyzeTime" : 201900
+},
+{
+  "name" : null,
+  "distance" : 4791.976200398473,
+  "elePos" : 252.30023823342754,
+  "eleNeg" : 252.30015727606758,
+  "analyzeTime" : 194600
+},
+{
+  "name" : "2018-03-12 17:19",
+  "distance" : 3804.680394201699,
+  "elePos" : 248.39999999999995,
+  "eleNeg" : 254.67999999999995,
+  "analyzeTime" : 118400
+},
+{
+  "name" : "Undervelier Grat TAbeillon",
+  "distance" : 11906.251906758802,
+  "elePos" : 634.1998743850556,
+  "eleNeg" : 543.6998743850556,
+  "analyzeTime" : 261600
+},
+{
+  "name" : "Gorges du Tigre",
+  "distance" : 22060.908601476374,
+  "elePos" : 927.19970703125,
+  "eleNeg" : 1131.999755859375,
+  "analyzeTime" : 273200
+},
+{
+  "name" : "Passo Branchino",
+  "distance" : 11802.157235564557,
+  "elePos" : 906.29992675782,
+  "eleNeg" : 905.79992675782,
+  "analyzeTime" : 231200
+},
+{
+  "name" : "Back to Korab, 2764m",
+  "distance" : 16010.70445437547,
+  "elePos" : 1701.2520000000009,
+  "eleNeg" : 1697.6830000000007,
+  "analyzeTime" : 362300
+},
+{
+  "name" : "2018-05-06 07:52",
+  "distance" : 11468.246834884852,
+  "elePos" : 1053.2600000000002,
+  "eleNeg" : 1048.2700000000002,
+  "analyzeTime" : 253700
+},
+{
+  "name" : "2018-04-07 13:42:20",
+  "distance" : 9288.217426087562,
+  "elePos" : 613.1,
+  "eleNeg" : 570.55,
+  "analyzeTime" : 197500
+},
+{
+  "name" : "Moregallo, Corno Rat, Corno Orientale, Prasanto 1914",
+  "distance" : 17384.773725174968,
+  "elePos" : 1876.0,
+  "eleNeg" : 1880.3300000000002,
+  "analyzeTime" : 207700
+},
+{
+  "name" : "Lupsingen-Reigoldswil",
+  "distance" : 10760.800057936207,
+  "elePos" : 553.2999516881728,
+  "eleNeg" : 508.79995430449685,
+  "analyzeTime" : 109600
+},
+{
+  "name" : "wachthubel 2018-04",
+  "distance" : 7329.905894635316,
+  "elePos" : 544.9596471884896,
+  "eleNeg" : 504.9596471884896,
+  "analyzeTime" : 135200
+},
+{
+  "name" : "Traccia 03 Feb 2018 9:25:30 AM",
+  "distance" : 18959.166040635875,
+  "elePos" : 1428.0022521820888,
+  "eleNeg" : 1387.6630688258065,
+  "analyzeTime" : 241700
+},
+{
+  "name" : "2018-05-05 15:09:56",
+  "distance" : 13528.754912379245,
+  "elePos" : 1359.3300000000006,
+  "eleNeg" : 1319.0400000000004,
+  "analyzeTime" : 409600
+},
+{
+  "name" : "Reigoldswil-Änzianen",
+  "distance" : 10689.081466411308,
+  "elePos" : 661.0999158142981,
+  "eleNeg" : 659.8999081048137,
+  "analyzeTime" : 218600
+},
+{
+  "name" : "Bürgenstock",
+  "distance" : 15616.777123202746,
+  "elePos" : 852.3000000000002,
+  "eleNeg" : 852.2000000000004,
+  "analyzeTime" : 398600
+},
+{
+  "name" : "2018-05-05 06:46Generoso",
+  "distance" : 15187.41886432285,
+  "elePos" : 1339.54,
+  "eleNeg" : 1325.5900000000001,
+  "analyzeTime" : 383200
+},
+{
+  "name" : "Pezzoro Guglielmo",
+  "distance" : 10942.899361784786,
+  "elePos" : 1081.680053710938,
+  "eleNeg" : 1081.780090332031,
+  "analyzeTime" : 203400
+},
+{
+  "name" : "San Genesio - Giro Mondonico-Campsirago-San Genesio-Giovenzana-Mondonico",
+  "distance" : 12322.016960884761,
+  "elePos" : 731.49,
+  "eleNeg" : 731.4899999999999,
+  "analyzeTime" : 346200
+},
+{
+  "name" : "Liguria - Val Argentina - Badalucco - Monte Pellarea, Monte Ceppo",
+  "distance" : 24956.626501762166,
+  "elePos" : 1530.30390625,
+  "eleNeg" : 1539.0099999999989,
+  "analyzeTime" : 771400
+},
+{
+  "name" : "2018-03-09 Menna",
+  "distance" : 12110.9593174448,
+  "elePos" : 1348.11987304688,
+  "eleNeg" : 1348.11987304688,
+  "analyzeTime" : 276900
+},
+{
+  "name" : "2018-05-05 Farno Aviasco Frati",
+  "distance" : 18968.33702343782,
+  "elePos" : 1794.52990722656,
+  "eleNeg" : 1795.42993164062,
+  "analyzeTime" : 400700
+},
+{
+  "name" : "Kew Mae Pan Nature Trail",
+  "distance" : 3437.3714483150816,
+  "elePos" : 224.80000000000064,
+  "eleNeg" : 185.98000000000047,
+  "analyzeTime" : 168100
+},
+{
+  "name" : null,
+  "distance" : 5241.210100605408,
+  "elePos" : 285.6501479999997,
+  "eleNeg" : 275.1901869999997,
+  "analyzeTime" : 192500
+},
+{
+  "name" : "bramegg",
+  "distance" : 12692.872169164175,
+  "elePos" : 441.59991629344665,
+  "eleNeg" : 441.49991629344663,
+  "analyzeTime" : 330700
+},
+{
+  "name" : "2018-05-01 Introbio Tre Signori",
+  "distance" : 25970.245530664615,
+  "elePos" : 2112.2102050781236,
+  "eleNeg" : 2111.610168457031,
+  "analyzeTime" : 260200
+},
+{
+  "name" : "2018-03-07 11:42",
+  "distance" : 5287.513647664164,
+  "elePos" : 487.6599999999999,
+  "eleNeg" : 28.84999999999991,
+  "analyzeTime" : 141300
+},
+{
+  "name" : "Traccia 4/2/2018",
+  "distance" : 10731.75937935961,
+  "elePos" : 1071.0,
+  "eleNeg" : 1050.0,
+  "analyzeTime" : 309300
+},
+{
+  "name" : "2018-04-08 15:54:39",
+  "distance" : 11664.98835313052,
+  "elePos" : 608.0900000000001,
+  "eleNeg" : 639.82,
+  "analyzeTime" : 288800
+},
+{
+  "name" : "GE Russin",
+  "distance" : 12347.511511985209,
+  "elePos" : 196.66247183723056,
+  "eleNeg" : 189.26247349145643,
+  "analyzeTime" : 247200
+},
+{
+  "name" : "2018-04-28 06:39",
+  "distance" : 14110.941949305105,
+  "elePos" : 1596.16,
+  "eleNeg" : 1633.56,
+  "analyzeTime" : 390000
+},
+{
+  "name" : null,
+  "distance" : 10397.57453557632,
+  "elePos" : 1215.299946435696,
+  "eleNeg" : 595.4999382323219,
+  "analyzeTime" : 378500
+},
+{
+  "name" : "SAC Jahresbot 2018 3. Version",
+  "distance" : 11371.188559833892,
+  "elePos" : 7.209999999999923,
+  "eleNeg" : 107.16999999999973,
+  "analyzeTime" : 182600
+},
+{
+  "name" : "08 APR 2018 08:22",
+  "distance" : 12012.447220209939,
+  "elePos" : 806.5600000000004,
+  "eleNeg" : 487.88000000000056,
+  "analyzeTime" : 294400
+},
+{
+  "name" : "Percorso 196",
+  "distance" : 21050.845923160505,
+  "elePos" : 1674.86999511719,
+  "eleNeg" : 1637.46997070313,
+  "analyzeTime" : 486200
+},
+{
+  "name" : "2017-12-23 08:05 yelling at Christmas tree",
+  "distance" : 4536.561409072929,
+  "elePos" : 804.0800000000002,
+  "eleNeg" : 822.7700000000002,
+  "analyzeTime" : 119700
+},
+{
+  "name" : "CAMUGHER04 16:18:48",
+  "distance" : 11836.637253338647,
+  "elePos" : 1217.52,
+  "eleNeg" : 1223.7599999999998,
+  "analyzeTime" : 400200
+},
+{
+  "name" : "Hilzingen Wandern",
+  "distance" : 29364.81124368519,
+  "elePos" : 1340.7998046875,
+  "eleNeg" : 1315.5997924804688,
+  "analyzeTime" : 475700
+},
+{
+  "name" : "2018-05-01 14:21:04-Trail Run",
+  "distance" : 17474.897120236386,
+  "elePos" : 1012.7300000000004,
+  "eleNeg" : 1015.1300000000006,
+  "analyzeTime" : 426500
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 4412.948819080776,
+  "elePos" : 1045.0,
+  "eleNeg" : 21.0,
+  "analyzeTime" : 143000
+},
+{
+  "name" : "Lombardia - Val Ceresio - Porto Ceresio - San Giorgio, Casolo, Grumello, Pravello, Poncione d'Arzo, Monte Orsa",
+  "distance" : 24911.941192263504,
+  "elePos" : 1572.9899999999989,
+  "eleNeg" : 1572.3499999999995,
+  "analyzeTime" : 590000
+},
+{
+  "name" : "Hinwil-Bachtel-Bauma",
+  "distance" : 19035.731358871228,
+  "elePos" : 811.0599999999985,
+  "eleNeg" : 737.7699999999984,
+  "analyzeTime" : 357100
+},
+{
+  "name" : "fähnerenspitz",
+  "distance" : 14020.078635625536,
+  "elePos" : 1147.5660813714917,
+  "eleNeg" : 773.8660813714919,
+  "analyzeTime" : 263700
+},
+{
+  "name" : "Traccia corrente: 03 FEB 2018 08:20",
+  "distance" : 14692.814904576095,
+  "elePos" : 1317.49,
+  "eleNeg" : 1323.74,
+  "analyzeTime" : 177600
+},
+{
+  "name" : "verenaschlucht, geführt",
+  "distance" : 2054.391714192666,
+  "elePos" : 64.799951145855,
+  "eleNeg" : 65.1998639863528,
+  "analyzeTime" : 179600
+},
+{
+  "name" : "homberg - belchenflue",
+  "distance" : 8551.515570626068,
+  "elePos" : 574.7644695080401,
+  "eleNeg" : 574.1644695080402,
+  "analyzeTime" : 111500
+},
+{
+  "name" : "2018-04-28 16:53:12",
+  "distance" : 16401.506815820878,
+  "elePos" : 1520.7199999999998,
+  "eleNeg" : 1495.7999999999997,
+  "analyzeTime" : 141300
+},
+{
+  "name" : null,
+  "distance" : 2704.0028867754418,
+  "elePos" : 18.0,
+  "eleNeg" : 16.0,
+  "analyzeTime" : 72400
+},
+{
+  "name" : "TI Val dei Cugnoli",
+  "distance" : 7548.57999162276,
+  "elePos" : 528.2854271154043,
+  "eleNeg" : 379.98542823924686,
+  "analyzeTime" : 129400
+},
+{
+  "name" : "Lozio Corsa",
+  "distance" : 11543.81427775619,
+  "elePos" : 1179.7999877929688,
+  "eleNeg" : 1183.7999877929688,
+  "analyzeTime" : 128100
+},
+{
+  "name" : "2018-04-29 13:19:41",
+  "distance" : 5093.783433731309,
+  "elePos" : 287.80000000000007,
+  "eleNeg" : 334.3400000000001,
+  "analyzeTime" : 134000
+},
+{
+  "name" : null,
+  "distance" : 9134.57048264859,
+  "elePos" : 575.1469551919643,
+  "eleNeg" : 256.4469551919643,
+  "analyzeTime" : 99500
+},
+{
+  "name" : "Traccia 4/3/2018",
+  "distance" : 8307.603213419019,
+  "elePos" : 816.0,
+  "eleNeg" : 819.0,
+  "analyzeTime" : 149500
+},
+{
+  "name" : "Traccia corrente: 08 APR 2018 10:41",
+  "distance" : 9461.940574118287,
+  "elePos" : 865.1799999999998,
+  "eleNeg" : 870.9500000000006,
+  "analyzeTime" : 72100
+},
+{
+  "name" : "2018-04-30 07:13",
+  "distance" : 13270.415810421558,
+  "elePos" : 1024.47,
+  "eleNeg" : 1025.04,
+  "analyzeTime" : 139000
+},
+{
+  "name" : "Move",
+  "distance" : 6917.078896322341,
+  "elePos" : 991.4099909929689,
+  "eleNeg" : 986.1100031999999,
+  "analyzeTime" : 230400
+},
+{
+  "name" : "Traccia corrente: 03 MAR 2018 09:44",
+  "distance" : 11675.190399373227,
+  "elePos" : 975.2400000000002,
+  "eleNeg" : 972.8400000000003,
+  "analyzeTime" : 146900
+},
+{
+  "name" : "Tobbio, Figne, Taccone, Rio Gorzente 1934",
+  "distance" : 29373.984830576752,
+  "elePos" : 1606.3800000000008,
+  "eleNeg" : 1610.7100000000014,
+  "analyzeTime" : 198500
+},
+{
+  "name" : "Tian Bao Shan J5",
+  "distance" : 7703.979818788829,
+  "elePos" : 167.400390625,
+  "eleNeg" : 490.600341796875,
+  "analyzeTime" : 104700
+},
+{
+  "name" : "Loritto Piz Tri",
+  "distance" : 15399.266586190484,
+  "elePos" : 1302.60009765625,
+  "eleNeg" : 1302.60009765625,
+  "analyzeTime" : 141300
+},
+{
+  "name" : "Traccia corrente: 03 MAR 2018 09:44",
+  "distance" : 11513.176445496822,
+  "elePos" : 1266.0699999999995,
+  "eleNeg" : 1265.0999999999997,
+  "analyzeTime" : 225300
+},
+{
+  "name" : "Monte Resegone da Lecco 1935",
+  "distance" : 19904.046786933348,
+  "elePos" : 1740.94,
+  "eleNeg" : 1835.1500000000005,
+  "analyzeTime" : 312200
+},
+{
+  "name" : "Hundwiler Höhi",
+  "distance" : 11392.881544902662,
+  "elePos" : 614.4837394352126,
+  "eleNeg" : 555.2837093125884,
+  "analyzeTime" : 210400
+},
+{
+  "name" : "2018-02-03T14:16:57Z_Montorfano _to_Montorfano ",
+  "distance" : 10547.558413074126,
+  "elePos" : 777.9326204441587,
+  "eleNeg" : 780.1770561698265,
+  "analyzeTime" : 85500
+},
+{
+  "name" : "oberdorf - chänzeli",
+  "distance" : 6528.93630354876,
+  "elePos" : 595.7706679413119,
+  "eleNeg" : 595.970667941312,
+  "analyzeTime" : 148500
+},
+{
+  "name" : "6 fours",
+  "distance" : 6824.733670265827,
+  "elePos" : 463.14,
+  "eleNeg" : 452.04000000000013,
+  "analyzeTime" : 97000
+},
+{
+  "name" : "Lavin - Strada",
+  "distance" : 34415.971233504795,
+  "elePos" : 899.2000732421875,
+  "eleNeg" : 1256.60009765625,
+  "analyzeTime" : 234800
+},
+{
+  "name" : "Traccia corrente: 04 FEB 2018 09:22",
+  "distance" : 7060.533166594359,
+  "elePos" : 551.8103029999997,
+  "eleNeg" : 560.4603269999998,
+  "analyzeTime" : 211600
+},
+{
+  "name" : "2018-03-04 18:07:03",
+  "distance" : 13198.465301349035,
+  "elePos" : 2482.370000000001,
+  "eleNeg" : 2491.0499999999997,
+  "analyzeTime" : 175100
+},
+{
+  "name" : "KS Aargauer Schlösser",
+  "distance" : 19152.528420385275,
+  "elePos" : 368.6487450757154,
+  "eleNeg" : 370.5487422488335,
+  "analyzeTime" : 142700
+},
+{
+  "name" : "Traccia corrente: 01 MAG 2018 10:24",
+  "distance" : 19178.666902998368,
+  "elePos" : 1684.7099999999996,
+  "eleNeg" : 1668.37,
+  "analyzeTime" : 130400
+},
+{
+  "name" : "ORACCIO-28 16:35:28",
+  "distance" : 11270.257547004898,
+  "elePos" : 1453.0400000000009,
+  "eleNeg" : 1453.5200000000002,
+  "analyzeTime" : 100300
+},
+{
+  "name" : "2018-03-04 14:15:46-Trail Run",
+  "distance" : 14322.17204008255,
+  "elePos" : 663.31,
+  "eleNeg" : 655.6199999999999,
+  "analyzeTime" : 146700
+},
+{
+  "name" : "Liguria - Ventimiglia (Mortola Superiore) - M.Fuga, C.Bravona, P.Renuit, M.Grammondo, C.Longoira, Roc de l'Orme, M.Carpano",
+  "distance" : 22412.927503121635,
+  "elePos" : 1741.1100000000004,
+  "eleNeg" : 1716.3299999999992,
+  "analyzeTime" : 231600
+},
+{
+  "name" : "Nekropolis di Pantalica",
+  "distance" : 17874.22245615958,
+  "elePos" : 543.4,
+  "eleNeg" : 654.0999999999999,
+  "analyzeTime" : 94500
+},
+{
+  "name" : "2018-01-28 15:48:08-Trail Run",
+  "distance" : 13734.05594749268,
+  "elePos" : 1182.42,
+  "eleNeg" : 1167.5200000000002,
+  "analyzeTime" : 261200
+},
+{
+  "name" : "Belpberg Westrippe",
+  "distance" : 6784.828499563591,
+  "elePos" : 329.26120940730607,
+  "eleNeg" : 329.36120943485616,
+  "analyzeTime" : 131800
+},
+{
+  "name" : "vaumuse",
+  "distance" : 5662.694591977687,
+  "elePos" : 596.9700000000003,
+  "eleNeg" : 25.500000000000227,
+  "analyzeTime" : 91700
+},
+{
+  "name" : "2018-04-21 08:19Chiavenna",
+  "distance" : 12120.074746031252,
+  "elePos" : 1095.3900000000008,
+  "eleNeg" : 1087.1400000000003,
+  "analyzeTime" : 181500
+},
+{
+  "name" : "I Fondi Gardena Giovetto",
+  "distance" : 11661.451371181814,
+  "elePos" : 985.22998046875,
+  "eleNeg" : 986.59997558593,
+  "analyzeTime" : 99800
+},
+{
+  "name" : "Corno Orientale, Monte Rai e Cornizzolo 1924",
+  "distance" : 21296.7577550943,
+  "elePos" : 1839.9699999999998,
+  "eleNeg" : 1895.7300000000014,
+  "analyzeTime" : 146600
+},
+{
+  "name" : "Big Vraca (2585m)",
+  "distance" : 20502.49153132502,
+  "elePos" : 1604.9549999999995,
+  "eleNeg" : 1589.8209999999995,
+  "analyzeTime" : 173200
+},
+{
+  "name" : "Lombardia - Val Sabbia - Cecino - Cima Moltrino, Zingla",
+  "distance" : 15946.946890734238,
+  "elePos" : 1311.8657812499991,
+  "eleNeg" : 1304.5499999999988,
+  "analyzeTime" : 154400
+},
+{
+  "name" : "Traccia corrente: 22 GEN 2018 08:31",
+  "distance" : 13803.482804188347,
+  "elePos" : 724.3600000000001,
+  "eleNeg" : 726.2800000000002,
+  "analyzeTime" : 123000
+},
+{
+  "name" : "Monte Colmegnone da Cernobbio 1923",
+  "distance" : 26267.046217786843,
+  "elePos" : 1550.0900000000004,
+  "eleNeg" : 1577.0100000000002,
+  "analyzeTime" : 192200
+},
+{
+  "name" : "2018-04-07 09:08",
+  "distance" : 20416.31758821652,
+  "elePos" : 1611.37,
+  "eleNeg" : 1598.6700000000005,
+  "analyzeTime" : 208400
+},
+{
+  "name" : "Zucco, Cerro, Castel Regina, Camoscera, Foldone, Sornadello, Molinasco 1940",
+  "distance" : 24481.307621516225,
+  "elePos" : 2114.89,
+  "eleNeg" : 2112.48,
+  "analyzeTime" : 231200
+},
+{
+  "name" : null,
+  "distance" : 9670.365350110527,
+  "elePos" : 1057.8477329006973,
+  "eleNeg" : 1057.8477329006976,
+  "analyzeTime" : 98300
+},
+{
+  "name" : null,
+  "distance" : 11124.927216935796,
+  "elePos" : 670.0399475097656,
+  "eleNeg" : 670.0399475097656,
+  "analyzeTime" : 126600
+},
+{
+  "name" : "2018-04-07T15:17:41Z_Sovere _to_Sovere ",
+  "distance" : 17447.62530946668,
+  "elePos" : 1296.4949402135167,
+  "eleNeg" : 1295.555175417337,
+  "analyzeTime" : 101000
+},
+{
+  "name" : "2018-03-04 15:11:34",
+  "distance" : 13575.905802523394,
+  "elePos" : 727.4600000000003,
+  "eleNeg" : 736.0000000000002,
+  "analyzeTime" : 149500
+},
+{
+  "name" : null,
+  "distance" : 10046.434121145976,
+  "elePos" : 196.09995042364483,
+  "eleNeg" : 328.29995528400707,
+  "analyzeTime" : 117800
+},
+{
+  "name" : "83384352 on GPSies.com",
+  "distance" : 11077.159690040693,
+  "elePos" : 620.0,
+  "eleNeg" : 849.0,
+  "analyzeTime" : 165600
+},
+{
+  "name" : "Traccia 8/4/2018",
+  "distance" : 10216.329719635967,
+  "elePos" : 1470.0,
+  "eleNeg" : 1440.0,
+  "analyzeTime" : 121200
+},
+{
+  "name" : "2018-04-29 16:37:05",
+  "distance" : 21495.592030793403,
+  "elePos" : 563.9200000000001,
+  "eleNeg" : 585.8400000000001,
+  "analyzeTime" : 177400
+},
+{
+  "name" : "Grignetta invernale",
+  "distance" : 7986.10926304211,
+  "elePos" : 1646.0,
+  "eleNeg" : 1613.0,
+  "analyzeTime" : 170000
+},
+{
+  "name" : null,
+  "distance" : 19858.355970492124,
+  "elePos" : 538.0,
+  "eleNeg" : 499.0,
+  "analyzeTime" : 196300
+},
+{
+  "name" : "JU Montvoie",
+  "distance" : 18174.737709443343,
+  "elePos" : 954.3988609707911,
+  "eleNeg" : 501.5988561820318,
+  "analyzeTime" : 173500
+},
+{
+  "name" : "2018-04-30 14:06:22",
+  "distance" : 16762.1565014037,
+  "elePos" : 381.66,
+  "eleNeg" : 392.72,
+  "analyzeTime" : 131700
+},
+{
+  "name" : null,
+  "distance" : 12106.317753198797,
+  "elePos" : 990.5999498992827,
+  "eleNeg" : 990.4999544136024,
+  "analyzeTime" : 135700
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 5370.19983408485,
+  "elePos" : 1005.0,
+  "eleNeg" : 39.0,
+  "analyzeTime" : 87500
+},
+{
+  "name" : "2018-04-06 16:23:09",
+  "distance" : 17217.699782149495,
+  "elePos" : 1129.6599999999994,
+  "eleNeg" : 1185.1799999999998,
+  "analyzeTime" : 85600
+},
+{
+  "name" : "Sequence 2",
+  "distance" : 4750.6489152522045,
+  "elePos" : 154.0,
+  "eleNeg" : 930.0,
+  "analyzeTime" : 75800
+},
+{
+  "name" : "2018-01-28 13:25:42",
+  "distance" : 4946.6264517806485,
+  "elePos" : 247.8499999999999,
+  "eleNeg" : 304.2599999999999,
+  "analyzeTime" : 100800
+},
+{
+  "name" : "20180304_Caglio_Anello_Palanzone",
+  "distance" : 11048.958961010088,
+  "elePos" : 777.830000000001,
+  "eleNeg" : 783.460000000001,
+  "analyzeTime" : 90000
+},
+{
+  "name" : "180406-mi-tour-8000m-300HM",
+  "distance" : 7406.151615833347,
+  "elePos" : 298.0,
+  "eleNeg" : 299.0,
+  "analyzeTime" : 99000
+},
+{
+  "name" : "Lahnerkopf",
+  "distance" : 12855.188473068974,
+  "elePos" : 862.3000000000009,
+  "eleNeg" : 845.6000000000008,
+  "analyzeTime" : 199200
+},
+{
+  "name" : "Etretat",
+  "distance" : 8672.468074368204,
+  "elePos" : 179.57999999999998,
+  "eleNeg" : 210.74,
+  "analyzeTime" : 106100
+},
+{
+  "name" : "SAC Jahresbot Reko 4.3.2018",
+  "distance" : 7549.947893545971,
+  "elePos" : 330.69991057687434,
+  "eleNeg" : 329.99990346681557,
+  "analyzeTime" : 97000
+},
+{
+  "name" : "Liguria - Valle del Prino - Dolcedo - M. Cantagallo, M. Follia, M. Faudo, M. Arbozzaro",
+  "distance" : 22022.65047426531,
+  "elePos" : 1401.6199999999997,
+  "eleNeg" : 1407.3600000000004,
+  "analyzeTime" : 225100
+},
+{
+  "name" : "Traccia corrente: 28 APR 2018 12:04",
+  "distance" : 16785.914466434428,
+  "elePos" : 1573.2100000000005,
+  "eleNeg" : 1543.89,
+  "analyzeTime" : 202200
+},
+{
+  "name" : "2018-01-31 14:47:55",
+  "distance" : 5867.480531196064,
+  "elePos" : 139.8499999999998,
+  "eleNeg" : 135.04999999999984,
+  "analyzeTime" : 111000
+},
+{
+  "name" : "laupendörfer stierenberg",
+  "distance" : 9972.637079906755,
+  "elePos" : 591.8162772332926,
+  "eleNeg" : 592.1162333388105,
+  "analyzeTime" : 134000
+},
+{
+  "name" : null,
+  "distance" : 11041.347333363738,
+  "elePos" : 525.8500061035156,
+  "eleNeg" : 542.6700134277344,
+  "analyzeTime" : 146800
+},
+{
+  "name" : "Rifugio Garzonera 2018-04-22",
+  "distance" : 11598.29110147199,
+  "elePos" : 668.3500000000001,
+  "eleNeg" : 689.8800000000001,
+  "analyzeTime" : 147600
+},
+{
+  "name" : "Traccia 28/1/2018",
+  "distance" : 7387.47348130489,
+  "elePos" : 1003.0,
+  "eleNeg" : 1004.0,
+  "analyzeTime" : 105500
+},
+{
+  "name" : "2018-02-28 10:00",
+  "distance" : 9287.936040830467,
+  "elePos" : 922.78,
+  "eleNeg" : 900.44,
+  "analyzeTime" : 79200
+},
+{
+  "name" : "Day 27 2017/2018",
+  "distance" : 18665.808107660967,
+  "elePos" : 1769.0,
+  "eleNeg" : 1783.0,
+  "analyzeTime" : 177900
+},
+{
+  "name" : "Traccia corrente: 29 APR 2018 10:54",
+  "distance" : 15204.692441291065,
+  "elePos" : 1104.56,
+  "eleNeg" : 1102.63,
+  "analyzeTime" : 131000
+},
+{
+  "name" : null,
+  "distance" : 13024.798632994281,
+  "elePos" : 585.0973121370824,
+  "eleNeg" : 628.297325787272,
+  "analyzeTime" : 180500
+},
+{
+  "name" : "balsthal - attiswil",
+  "distance" : 15431.52053114394,
+  "elePos" : 1204.6047694087397,
+  "eleNeg" : 1176.8047540594775,
+  "analyzeTime" : 210200
+},
+{
+  "name" : "Traccia corrente: 07 APR 2018 08:24",
+  "distance" : 16928.119686343376,
+  "elePos" : 1586.1699999999996,
+  "eleNeg" : 1579.9199999999996,
+  "analyzeTime" : 140600
+},
+{
+  "name" : "Piz Alun",
+  "distance" : 10575.038532244786,
+  "elePos" : 849.2999999999995,
+  "eleNeg" : 849.3099999999996,
+  "analyzeTime" : 136700
+},
+{
+  "name" : null,
+  "distance" : 9672.154892219874,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 147100
+},
+{
+  "name" : "2018-02-25 12:59:18-Trail Run",
+  "distance" : 9502.991373822342,
+  "elePos" : 314.34000000000003,
+  "eleNeg" : 310.0200000000001,
+  "analyzeTime" : 76800
+},
+{
+  "name" : "Colle del Nivolet, Rifugio Chivasso 1931",
+  "distance" : 13748.76043362359,
+  "elePos" : 1022.3599999999999,
+  "eleNeg" : 1035.34,
+  "analyzeTime" : 196700
+},
+{
+  "name" : null,
+  "distance" : 724.7495856932769,
+  "elePos" : 88.0,
+  "eleNeg" : 60.0,
+  "analyzeTime" : 66700
+},
+{
+  "name" : "2018-01-27 08:26",
+  "distance" : 14984.92337524293,
+  "elePos" : 1402.10961914064,
+  "eleNeg" : 1401.10961914064,
+  "analyzeTime" : 131200
+},
+{
+  "name" : "Cornizzolo, Rai, Prasanto, Corno Centrale 1921",
+  "distance" : 20238.790016160223,
+  "elePos" : 2025.0200000000018,
+  "eleNeg" : 2028.8700000000008,
+  "analyzeTime" : 182500
+},
+{
+  "name" : "2018-04-01 08:49",
+  "distance" : 31746.71603666149,
+  "elePos" : 2054.3200000000006,
+  "eleNeg" : 2039.19,
+  "analyzeTime" : 152400
+},
+{
+  "name" : "4 Schmidrüti - Wila",
+  "distance" : 5300.684228518631,
+  "elePos" : 55.82000000000005,
+  "eleNeg" : 315.6400000000001,
+  "analyzeTime" : 62500
+},
+{
+  "name" : "Traccia corrente: 28 GEN 2018 10:04",
+  "distance" : 10417.369415258756,
+  "elePos" : 627.2500619999998,
+  "eleNeg" : 614.2700809999999,
+  "analyzeTime" : 126600
+},
+{
+  "name" : "Rifugio Grassi 1922",
+  "distance" : 18247.375541497753,
+  "elePos" : 1442.45,
+  "eleNeg" : 1458.3200000000002,
+  "analyzeTime" : 144900
+},
+{
+  "name" : "ACTIVE LOG: 04 APR 2018 09:37",
+  "distance" : 17805.749494419153,
+  "elePos" : 698.3899999999999,
+  "eleNeg" : 747.9,
+  "analyzeTime" : 180400
+},
+{
+  "name" : "La Tourne - Vue des Alp - Genevey",
+  "distance" : 17018.451207476617,
+  "elePos" : 567.9000000000018,
+  "eleNeg" : 742.6300000000016,
+  "analyzeTime" : 138900
+},
+{
+  "name" : "Traccia 28 Gen 2018 08:18:15",
+  "distance" : 9314.248201195609,
+  "elePos" : 1206.0400312949002,
+  "eleNeg" : 1179.13619757089,
+  "analyzeTime" : 102000
+},
+{
+  "name" : "Alpe Barcelona",
+  "distance" : 10087.511226880706,
+  "elePos" : 661.8899999999998,
+  "eleNeg" : 662.3799999999998,
+  "analyzeTime" : 82200
+},
+{
+  "name" : "2018-04-02 13:16:40-Trail Run",
+  "distance" : 5806.553862478688,
+  "elePos" : 321.57,
+  "eleNeg" : 341.75,
+  "analyzeTime" : 91500
+},
+{
+  "name" : "ACTIVE LOG: 29 APR 2018 08:10",
+  "distance" : 16862.945681044206,
+  "elePos" : 1147.3300000000002,
+  "eleNeg" : 1136.2800000000007,
+  "analyzeTime" : 176300
+},
+{
+  "name" : "Fraenkischer-Gebirgsweg_GPX_2016-09-14_Gesamt",
+  "distance" : 186720.16257978158,
+  "elePos" : 4509.001,
+  "eleNeg" : 4165.0,
+  "analyzeTime" : 801900
+},
+{
+  "name" : "Hérrisson",
+  "distance" : 4560.7391127029805,
+  "elePos" : 161.37999999999988,
+  "eleNeg" : 181.03999999999985,
+  "analyzeTime" : 160900
+},
+{
+  "name" : "Move",
+  "distance" : 10543.350858445265,
+  "elePos" : 1099.018553795995,
+  "eleNeg" : 971.018553795995,
+  "analyzeTime" : 119700
+},
+{
+  "name" : "2018-04-29_Baumgartenkopf",
+  "distance" : 20900.056876468763,
+  "elePos" : 1015.1600000000002,
+  "eleNeg" : 1030.0600000000004,
+  "analyzeTime" : 182900
+},
+{
+  "name" : "2018-01-29 15:55:35",
+  "distance" : 7429.727488073517,
+  "elePos" : 189.85000000000008,
+  "eleNeg" : 32.67000000000007,
+  "analyzeTime" : 89300
+},
+{
+  "name" : "Plassa Arera",
+  "distance" : 12226.529707063608,
+  "elePos" : 1387.36987304688,
+  "eleNeg" : 1387.419921875,
+  "analyzeTime" : 223100
+},
+{
+  "name" : "San Rocco di Camogli - Portofino 1932",
+  "distance" : 24382.916962652715,
+  "elePos" : 1649.6200000000006,
+  "eleNeg" : 1648.1800000000003,
+  "analyzeTime" : 358600
+},
+{
+  "name" : "hochhamm",
+  "distance" : 11818.037080061727,
+  "elePos" : 611.5182253480841,
+  "eleNeg" : 486.81823496756886,
+  "analyzeTime" : 90700
+},
+{
+  "name" : "2018-01-21 10:17",
+  "distance" : 13665.789056978476,
+  "elePos" : 1030.4199999999998,
+  "eleNeg" : 1032.1299999999999,
+  "analyzeTime" : 101300
+},
+{
+  "name" : "Lombardia - Lago di Como - Torno - Monte Astele - Pizzo Tre Termini",
+  "distance" : 12712.440741725353,
+  "elePos" : 1102.6400000000003,
+  "eleNeg" : 1103.4299999999998,
+  "analyzeTime" : 251500
+},
+{
+  "name" : "Asso - Como 1933",
+  "distance" : 26790.877526935623,
+  "elePos" : 1726.999999999999,
+  "eleNeg" : 1910.6199999999992,
+  "analyzeTime" : 198500
+},
+{
+  "name" : "2018-04-29 08:38",
+  "distance" : 10272.0757932724,
+  "elePos" : 1374.0500000000006,
+  "eleNeg" : 1423.37,
+  "analyzeTime" : 158200
+},
+{
+  "name" : "2018-01-26 16:31:18",
+  "distance" : 3113.227519564577,
+  "elePos" : 24.030000000000086,
+  "eleNeg" : 23.060000000000116,
+  "analyzeTime" : 195100
+},
+{
+  "name" : "Trekk Monte Perdido ",
+  "distance" : 91533.64776950092,
+  "elePos" : 8045.278,
+  "eleNeg" : 8045.267000000003,
+  "analyzeTime" : 339500
+},
+{
+  "name" : "Traccia corrente: 02 APR 2018 08:59",
+  "distance" : 15867.500747557157,
+  "elePos" : 1641.92,
+  "eleNeg" : 1595.290000000001,
+  "analyzeTime" : 195300
+},
+{
+  "name" : "2017-08-27 17:32:52",
+  "distance" : 12305.137890856959,
+  "elePos" : 482.09,
+  "eleNeg" : 576.48,
+  "analyzeTime" : 132500
+},
+{
+  "name" : "Mont Férion",
+  "distance" : 18660.837639679285,
+  "elePos" : 1139.059999999999,
+  "eleNeg" : 1142.329999999999,
+  "analyzeTime" : 152000
+},
+{
+  "name" : "2 Mittagspause - Uznaberg",
+  "distance" : 5189.7843371184545,
+  "elePos" : 90.36000000000007,
+  "eleNeg" : 220.97000000000003,
+  "analyzeTime" : 129100
+},
+{
+  "name" : "2018-04-02 18:14:25",
+  "distance" : 10455.20070207285,
+  "elePos" : 981.1799999999998,
+  "eleNeg" : 990.9099999999999,
+  "analyzeTime" : 157200
+},
+{
+  "name" : "2018-04-29 Schienerberg",
+  "distance" : 16354.463901416384,
+  "elePos" : 490.0,
+  "eleNeg" : 691.0,
+  "analyzeTime" : 135900
+},
+{
+  "name" : "Liguria - Camogli - Sentiero dei Tubi - Monte Portofino, Monte Campana",
+  "distance" : 15901.702451124056,
+  "elePos" : 1298.55,
+  "eleNeg" : 1275.3499999999995,
+  "analyzeTime" : 176500
+},
+{
+  "name" : "Traccia corrente: 24 FEB 2018 11:50",
+  "distance" : 21463.26428333014,
+  "elePos" : 1235.2800000000007,
+  "eleNeg" : 1219.4200000000005,
+  "analyzeTime" : 86700
+},
+{
+  "name" : "2018-04-01 13:36",
+  "distance" : 15119.803468163755,
+  "elePos" : 990.6500000000001,
+  "eleNeg" : 1021.3700000000003,
+  "analyzeTime" : 109800
+},
+{
+  "name" : "2018-04-28 16:59:58",
+  "distance" : 16737.721021314544,
+  "elePos" : 69.87,
+  "eleNeg" : 152.01,
+  "analyzeTime" : 179400
+},
+{
+  "name" : "FILO-01-21 15:27:26",
+  "distance" : 15735.696553071679,
+  "elePos" : 1180.9899999999998,
+  "eleNeg" : 1182.4399999999996,
+  "analyzeTime" : 203000
+},
+{
+  "name" : "20160327_Bellugello_Assisi",
+  "distance" : 32453.199907684386,
+  "elePos" : 1087.64,
+  "eleNeg" : 1440.1000000000004,
+  "analyzeTime" : 260400
+},
+{
+  "name" : "Trentino Alto Adige - Val Sarentino - Campolasta - Croce di Sam",
+  "distance" : 19392.106745039488,
+  "elePos" : 1601.8212500000002,
+  "eleNeg" : 1597.3400000000001,
+  "analyzeTime" : 172900
+},
+{
+  "name" : "Cima Torrione per il Vecc Sentee e Motto Rotondo",
+  "distance" : 22607.636684986468,
+  "elePos" : 1254.52,
+  "eleNeg" : 1257.4,
+  "analyzeTime" : 152900
+},
+{
+  "name" : "Cornizzolo, Rai, Birone, Corno Orientale 1911",
+  "distance" : 22130.15502063413,
+  "elePos" : 2127.3500000000017,
+  "eleNeg" : 2117.7400000000002,
+  "analyzeTime" : 169800
+},
+{
+  "name" : "20170419_Spello_Assisi",
+  "distance" : 20845.49298620421,
+  "elePos" : 1263.2700000000004,
+  "eleNeg" : 1135.1299999999999,
+  "analyzeTime" : 133700
+},
+{
+  "name" : "Capanna Bovarina",
+  "distance" : 10050.606784644857,
+  "elePos" : 684.4499999999998,
+  "eleNeg" : 685.4199999999998,
+  "analyzeTime" : 129300
+},
+{
+  "name" : "Track 008",
+  "distance" : 8912.25274061278,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 228400
+},
+{
+  "name" : "Forti di Genova (Genova-Crocetta) 1912",
+  "distance" : 20119.319105995957,
+  "elePos" : 1522.73,
+  "eleNeg" : 1152.1399999999994,
+  "analyzeTime" : 197900
+},
+{
+  "name" : "napf 2018-02-18",
+  "distance" : 5572.2902363500925,
+  "elePos" : 479.20000000000005,
+  "eleNeg" : 479.80000000000007,
+  "analyzeTime" : 90600
+},
+{
+  "name" : null,
+  "distance" : 15972.754096461946,
+  "elePos" : 833.450134,
+  "eleNeg" : 823.920166,
+  "analyzeTime" : 169500
+},
+{
+  "name" : "senepi",
+  "distance" : 6028.648671440035,
+  "elePos" : 578.6499999999999,
+  "eleNeg" : 89.16999999999985,
+  "analyzeTime" : 96800
+},
+{
+  "name" : "2018-01-24 S. Simone Siltri",
+  "distance" : 8217.0467535123,
+  "elePos" : 642.19018554688,
+  "eleNeg" : 643.48010253907,
+  "analyzeTime" : 120200
+},
+{
+  "name" : "Kobilica Winter Ascent",
+  "distance" : 16763.011124660337,
+  "elePos" : 1948.497,
+  "eleNeg" : 1900.9140000000002,
+  "analyzeTime" : 192200
+},
+{
+  "name" : null,
+  "distance" : 13957.74216071441,
+  "elePos" : 2768.0,
+  "eleNeg" : 2767.0,
+  "analyzeTime" : 90200
+},
+{
+  "name" : "2018-04-28 13:03:43",
+  "distance" : 10581.017014120709,
+  "elePos" : 801.1599999999999,
+  "eleNeg" : 797.5399999999998,
+  "analyzeTime" : 83300
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 7734.222007133153,
+  "elePos" : 917.0,
+  "eleNeg" : 449.0,
+  "analyzeTime" : 49800
+},
+{
+  "name" : "2018-02-22 09:40",
+  "distance" : 12100.05597880719,
+  "elePos" : 2167.9199999999996,
+  "eleNeg" : 2165.0699999999997,
+  "analyzeTime" : 140600
+},
+{
+  "name" : null,
+  "distance" : 4144.46533628154,
+  "elePos" : 504.0,
+  "eleNeg" : 664.0,
+  "analyzeTime" : 45100
+},
+{
+  "name" : "2018-04-28 08:24",
+  "distance" : 14006.272669202657,
+  "elePos" : 1697.8900000000008,
+  "eleNeg" : 1721.8300000000006,
+  "analyzeTime" : 114900
+},
+{
+  "name" : "Lombardia - Val Bova - Caslino d'Erba - Monte Puscio, Monte Panigas",
+  "distance" : 12796.194453965798,
+  "elePos" : 949.1699999999998,
+  "eleNeg" : 975.3,
+  "analyzeTime" : 120700
+},
+{
+  "name" : null,
+  "distance" : 2993.876586137454,
+  "elePos" : 0.2999906043003193,
+  "eleNeg" : 519.1999860130206,
+  "analyzeTime" : 120000
+},
+{
+  "name" : "AG Augusta Raurica",
+  "distance" : 10480.704343846468,
+  "elePos" : 197.39442463189272,
+  "eleNeg" : 196.6944229231325,
+  "analyzeTime" : 112300
+},
+{
+  "name" : "Traccia corrente: 28 APR 2018 06:35",
+  "distance" : 11404.297717829733,
+  "elePos" : 1573.2,
+  "eleNeg" : 1582.8100000000002,
+  "analyzeTime" : 101400
+},
+{
+  "name" : "2018-01-24 13:17",
+  "distance" : 8123.561861942737,
+  "elePos" : 1479.8600000000004,
+  "eleNeg" : 1496.76,
+  "analyzeTime" : 109600
+},
+{
+  "name" : "VS Muzot",
+  "distance" : 13138.639003396975,
+  "elePos" : 484.06283007224977,
+  "eleNeg" : 511.2628300722498,
+  "analyzeTime" : 178700
+},
+{
+  "name" : "My_Tappe 3-4-5 per report",
+  "distance" : 39477.49024395409,
+  "elePos" : 203.95875000000012,
+  "eleNeg" : 813.4387500000004,
+  "analyzeTime" : 186400
+},
+{
+  "name" : "GENEROSO 8 16:34:43",
+  "distance" : 11266.611855031062,
+  "elePos" : 1089.35,
+  "eleNeg" : 1082.48,
+  "analyzeTime" : 274000
+},
+{
+  "name" : null,
+  "distance" : 3069.870928953854,
+  "elePos" : 24.600023342275904,
+  "eleNeg" : 24.600023342275904,
+  "analyzeTime" : 199400
+},
+{
+  "name" : "Riserva Regionale Valle Bova",
+  "distance" : 18417.920684150984,
+  "elePos" : 1513.1100000000001,
+  "eleNeg" : 1490.5200000000004,
+  "analyzeTime" : 208900
+},
+{
+  "name" : "Day 26 2017/2018",
+  "distance" : 16607.890826361614,
+  "elePos" : 965.0,
+  "eleNeg" : 967.0,
+  "analyzeTime" : 155100
+},
+{
+  "name" : "Track_Huser Stock",
+  "distance" : 12021.38948382793,
+  "elePos" : 1483.1559295869756,
+  "eleNeg" : 1480.655931420994,
+  "analyzeTime" : 188000
+},
+{
+  "name" : "2018-01-21 09:04",
+  "distance" : 12472.298606087481,
+  "elePos" : 1315.1700000000003,
+  "eleNeg" : 1364.19,
+  "analyzeTime" : 170200
+},
+{
+  "name" : "Giro Monte Monaco",
+  "distance" : 13824.034748218799,
+  "elePos" : 599.8626711,
+  "eleNeg" : 691.1879885,
+  "analyzeTime" : 165700
+},
+{
+  "name" : "Lucelle-Porrentruy",
+  "distance" : 17427.327037523028,
+  "elePos" : 186.97623399735187,
+  "eleNeg" : 367.7762283911363,
+  "analyzeTime" : 105300
+},
+{
+  "name" : "2018-04-15 13:16:37",
+  "distance" : 9506.542130308218,
+  "elePos" : 563.7999999999998,
+  "eleNeg" : 607.45,
+  "analyzeTime" : 111500
+},
+{
+  "name" : "Nepal - Langtang - Kyanjin Ri m.4810 from Kyanjin Gompa",
+  "distance" : 5306.101095630445,
+  "elePos" : 978.1940000000004,
+  "eleNeg" : 36.064000000000306,
+  "analyzeTime" : 85400
+},
+{
+  "name" : "2018.02.10 Rifugio Garzonera",
+  "distance" : 10799.424043002515,
+  "elePos" : 613.7999341491102,
+  "eleNeg" : 613.5999341491101,
+  "analyzeTime" : 124600
+},
+{
+  "name" : "2018-04-02 11:03",
+  "distance" : 12897.647157990403,
+  "elePos" : 1282.2899999999995,
+  "eleNeg" : 1266.2799999999997,
+  "analyzeTime" : 74900
+},
+{
+  "name" : "Vertical Sass de Fer",
+  "distance" : 2620.874296077139,
+  "elePos" : 841.1999969482422,
+  "eleNeg" : 8.600021362304688,
+  "analyzeTime" : 70100
+},
+{
+  "name" : "04 Kyanjin Gompa-Cherco Ri",
+  "distance" : 11546.90746013106,
+  "elePos" : 1161.7519532000006,
+  "eleNeg" : 1180.4970704000002,
+  "analyzeTime" : 93600
+},
+{
+  "name" : "2018-02-21 Corno Stella",
+  "distance" : 9874.217739009748,
+  "elePos" : 961.99987792969,
+  "eleNeg" : 961.919921875,
+  "analyzeTime" : 123400
+},
+{
+  "name" : "Traccia 2/4/2018",
+  "distance" : 11400.162007618337,
+  "elePos" : 1089.0,
+  "eleNeg" : 1089.0,
+  "analyzeTime" : 89500
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 8631.279506751343,
+  "elePos" : 906.0,
+  "eleNeg" : 906.0,
+  "analyzeTime" : 66900
+},
+{
+  "name" : null,
+  "distance" : 13904.767716329981,
+  "elePos" : 812.789856,
+  "eleNeg" : 809.3998409999999,
+  "analyzeTime" : 122900
+},
+{
+  "name" : null,
+  "distance" : 8767.06536822162,
+  "elePos" : 656.2998771481242,
+  "eleNeg" : 656.2998774838601,
+  "analyzeTime" : 55600
+},
+{
+  "name" : "CROPDALBOG 17:46:32",
+  "distance" : 8978.238195899019,
+  "elePos" : 872.8700000000003,
+  "eleNeg" : 868.0700000000004,
+  "analyzeTime" : 130300
+},
+{
+  "name" : "2018-04-25 16:04:50-Trail Run",
+  "distance" : 21069.057673293315,
+  "elePos" : 1157.42,
+  "eleNeg" : 1135.3100000000004,
+  "analyzeTime" : 162600
+},
+{
+  "name" : "2018-01-22 S. Pellegrino Zucco",
+  "distance" : 5628.904578923246,
+  "elePos" : 876.8999328613318,
+  "eleNeg" : 877.0999450683639,
+  "analyzeTime" : 87400
+},
+{
+  "name" : "2018-02-11 14:37:15",
+  "distance" : 14597.908246090232,
+  "elePos" : 1232.3799999999997,
+  "eleNeg" : 1224.4499999999994,
+  "analyzeTime" : 98800
+},
+{
+  "name" : "Spiazzi Timogno Benfit",
+  "distance" : 8629.756809282146,
+  "elePos" : 980.02990722657,
+  "eleNeg" : 980.80993652344,
+  "analyzeTime" : 99400
+},
+{
+  "name" : "2018-04-27 17:39:48",
+  "distance" : 7281.357379945206,
+  "elePos" : 482.55000000000007,
+  "eleNeg" : 480.5400000000001,
+  "analyzeTime" : 71200
+},
+{
+  "name" : "2018-01-22 21:33:16",
+  "distance" : 3034.278667816609,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 50400
+},
+{
+  "name" : "Pashtrik in Winter",
+  "distance" : 12694.661975149409,
+  "elePos" : 1472.4899999999996,
+  "eleNeg" : 1482.0499999999997,
+  "analyzeTime" : 120500
+},
+{
+  "name" : "2018-03-25 14:50:14",
+  "distance" : 7153.001026044486,
+  "elePos" : 417.57000000000016,
+  "eleNeg" : 432.0000000000002,
+  "analyzeTime" : 159200
+},
+{
+  "name" : "Traccia corrente: 25 APR 2018 12:09",
+  "distance" : 18621.59567344706,
+  "elePos" : 1531.8400000000015,
+  "eleNeg" : 1424.1800000000007,
+  "analyzeTime" : 161300
+},
+{
+  "name" : "Traccia 21/1/2018",
+  "distance" : 9357.519877512867,
+  "elePos" : 1441.0,
+  "eleNeg" : 1470.0,
+  "analyzeTime" : 120100
+},
+{
+  "name" : "Luboten",
+  "distance" : 12253.435916805302,
+  "elePos" : 1357.4809999999998,
+  "eleNeg" : 1213.1509999999998,
+  "analyzeTime" : 114400
+},
+{
+  "name" : "Pic de Courmettes",
+  "distance" : 14273.00319263928,
+  "elePos" : 946.69,
+  "eleNeg" : 931.8400000000004,
+  "analyzeTime" : 103400
+},
+{
+  "name" : "Mont Orchez",
+  "distance" : 2248.082809600394,
+  "elePos" : 502.45000000000005,
+  "eleNeg" : 28.019999999999982,
+  "analyzeTime" : 108500
+},
+{
+  "name" : "Pichincha-Überschreitung",
+  "distance" : 18119.542674684228,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 156600
+},
+{
+  "name" : "Monti Palanzone e Bolettone 1919",
+  "distance" : 31335.32525888805,
+  "elePos" : 2097.1100000000006,
+  "eleNeg" : 2088.4600000000014,
+  "analyzeTime" : 337200
+},
+{
+  "name" : "2018-04-01 14:39:59",
+  "distance" : 16808.32403794891,
+  "elePos" : 721.44,
+  "eleNeg" : 731.3999999999999,
+  "analyzeTime" : 85700
+},
+{
+  "name" : "Move",
+  "distance" : 8451.212373317096,
+  "elePos" : 1159.76473927898,
+  "eleNeg" : 1124.06478810711,
+  "analyzeTime" : 84500
+},
+{
+  "name" : null,
+  "distance" : 5825.667338198416,
+  "elePos" : 694.6990390765475,
+  "eleNeg" : 694.1999096572024,
+  "analyzeTime" : 79400
+},
+{
+  "name" : "Giro breve dei Colli di Sartirana",
+  "distance" : 11903.877377951709,
+  "elePos" : 463.0570000000001,
+  "eleNeg" : 449.00500000000005,
+  "analyzeTime" : 121500
+},
+{
+  "name" : "2018-03-28 08:24",
+  "distance" : 22400.931113708706,
+  "elePos" : 1954.8700000000008,
+  "eleNeg" : 1832.4400000000007,
+  "analyzeTime" : 205100
+},
+{
+  "name" : "gottertli 2018-03",
+  "distance" : 4742.228189907404,
+  "elePos" : 946.6449780202988,
+  "eleNeg" : 242.64497802029865,
+  "analyzeTime" : 158300
+},
+{
+  "name" : "30-DEZ-12 14:01:17",
+  "distance" : 13260.077527867654,
+  "elePos" : 446.0500000000003,
+  "eleNeg" : 424.4200000000003,
+  "analyzeTime" : 59000
+},
+{
+  "name" : "Traccia 18/2/2018",
+  "distance" : 10778.160447231061,
+  "elePos" : 1191.0,
+  "eleNeg" : 1252.0,
+  "analyzeTime" : 102200
+},
+{
+  "name" : "2018-03-30 15:28:43",
+  "distance" : 17751.50543928014,
+  "elePos" : 224.45000000000005,
+  "eleNeg" : 176.86000000000007,
+  "analyzeTime" : 109000
+},
+{
+  "name" : "2018-04-14 14:01:40",
+  "distance" : 12697.039531331366,
+  "elePos" : 768.5099999999998,
+  "eleNeg" : 646.5099999999998,
+  "analyzeTime" : 108300
+},
+{
+  "name" : "bou noit",
+  "distance" : 7119.018813436014,
+  "elePos" : 422.7399999999999,
+  "eleNeg" : 422.7399999999999,
+  "analyzeTime" : 79900
+},
+{
+  "name" : "2018-02-18 08:55",
+  "distance" : 13955.169935940045,
+  "elePos" : 2748.77,
+  "eleNeg" : 2772.36,
+  "analyzeTime" : 117800
+},
+{
+  "name" : "ZH Tüfels Chilen",
+  "distance" : 14356.191003471466,
+  "elePos" : 494.36650365352165,
+  "eleNeg" : 437.8665060893802,
+  "analyzeTime" : 143700
+},
+{
+  "name" : "bözingenberg - lysserbrunne",
+  "distance" : 11636.408801532643,
+  "elePos" : 646.8512004080546,
+  "eleNeg" : 646.8511988980194,
+  "analyzeTime" : 115900
+},
+{
+  "name" : " Chierico Pedrinelli",
+  "distance" : 13689.25476908445,
+  "elePos" : 1495.89013671875,
+  "eleNeg" : 1495.79016113281,
+  "analyzeTime" : 106600
+},
+{
+  "name" : "2018-02-14 09:16- monte crocione",
+  "distance" : 13473.59953396502,
+  "elePos" : 1414.14,
+  "eleNeg" : 1407.8,
+  "analyzeTime" : 141400
+},
+{
+  "name" : "Track_2018-03-30 153001 on GPSies.com",
+  "distance" : 15570.539244570824,
+  "elePos" : 940.2599999999999,
+  "eleNeg" : 966.7599999999999,
+  "analyzeTime" : 270900
+},
+{
+  "name" : "Pornio, Conche, Doppo, Ucia, Dragoncello 1938",
+  "distance" : 31795.14333661862,
+  "elePos" : 2613.82,
+  "eleNeg" : 2610.4600000000028,
+  "analyzeTime" : 227700
+},
+{
+  "name" : null,
+  "distance" : 20097.674316045355,
+  "elePos" : 1769.9480590820312,
+  "eleNeg" : 1759.3484497070312,
+  "analyzeTime" : 180100
+},
+{
+  "name" : "2018-02-15 08:40",
+  "distance" : 10859.841635231682,
+  "elePos" : 1408.27,
+  "eleNeg" : 1450.5500000000004,
+  "analyzeTime" : 103900
+},
+{
+  "name" : "83sc0619 on GPSies.com",
+  "distance" : 4841.012448810293,
+  "elePos" : 90.0,
+  "eleNeg" : 650.0,
+  "analyzeTime" : 90700
+},
+{
+  "name" : "Moregallo, Corni di Canzo, Malascarpa, Prasanto, Cornizzolo, Rai, Birone 1939",
+  "distance" : 19092.834932084614,
+  "elePos" : 1939.0000000000005,
+  "eleNeg" : 1921.7000000000012,
+  "analyzeTime" : 199200
+},
+{
+  "name" : null,
+  "distance" : 6620.029305554508,
+  "elePos" : 509.29338788742973,
+  "eleNeg" : 509.0933874778115,
+  "analyzeTime" : 118100
+},
+{
+  "name" : null,
+  "distance" : 7637.155698091279,
+  "elePos" : 1091.3000060543127,
+  "eleNeg" : 573.0000064138943,
+  "analyzeTime" : 89900
+},
+{
+  "name" : "chänzeli - weissenstein",
+  "distance" : 7298.355876275608,
+  "elePos" : 625.8999586840356,
+  "eleNeg" : 625.9999548952123,
+  "analyzeTime" : 87000
+},
+{
+  "name" : "2018-04-08 11:22:04",
+  "distance" : 6509.750136617301,
+  "elePos" : 385.72999999999996,
+  "eleNeg" : 426.3299999999999,
+  "analyzeTime" : 64200
+},
+{
+  "name" : "Current Track: 02 JAN 2018 10:49",
+  "distance" : 5181.437521650322,
+  "elePos" : 210.48999999999998,
+  "eleNeg" : 213.38,
+  "analyzeTime" : 34900
+},
+{
+  "name" : "Riseva dello Zingaro: Anello del Monte Speziale",
+  "distance" : 21084.683005247993,
+  "elePos" : 1280.4758303000006,
+  "eleNeg" : 1267.9785158,
+  "analyzeTime" : 170200
+},
+{
+  "name" : "2018-03-24 08:37Lendine",
+  "distance" : 10175.555187135884,
+  "elePos" : 997.8800000000003,
+  "eleNeg" : 981.8400000000004,
+  "analyzeTime" : 101900
+},
+{
+  "name" : "2018-04-22 16:14:05",
+  "distance" : 8765.605159080418,
+  "elePos" : 610.2599999999998,
+  "eleNeg" : 592.0899999999999,
+  "analyzeTime" : 102900
+},
+{
+  "name" : "2018-01-20 12:23:06",
+  "distance" : 13180.674253246036,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 85900
+},
+{
+  "name" : "2018-02-17 Tezzi Petto Vaga",
+  "distance" : 15441.546485352781,
+  "elePos" : 1492.489990234378,
+  "eleNeg" : 1490.290039062502,
+  "analyzeTime" : 96600
+},
+{
+  "name" : "hornbachegg 2018-03",
+  "distance" : 4969.887987616931,
+  "elePos" : 279.9999587335798,
+  "eleNeg" : 280.5999587335798,
+  "analyzeTime" : 45000
+},
+{
+  "name" : "2018-04-24 06:34Duaria Colonno ",
+  "distance" : 20409.39211721195,
+  "elePos" : 1527.4199999999998,
+  "eleNeg" : 1534.3199999999997,
+  "analyzeTime" : 141900
+},
+{
+  "name" : "Corazon",
+  "distance" : 9390.754204068477,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 80000
+},
+{
+  "name" : "Skaftafell Nationalpark",
+  "distance" : 9773.776961044055,
+  "elePos" : 250.0,
+  "eleNeg" : 368.0,
+  "analyzeTime" : 77100
+},
+{
+  "name" : "San Martino,Colonna, Pian Nave sentieri peduti.",
+  "distance" : 24715.977078033866,
+  "elePos" : 1671.7299999999996,
+  "eleNeg" : 1690.470000000003,
+  "analyzeTime" : 226300
+},
+{
+  "name" : "Move",
+  "distance" : 9743.43737828821,
+  "elePos" : 1495.533451789786,
+  "eleNeg" : 100.63339685814012,
+  "analyzeTime" : 110100
+},
+{
+  "name" : "2018-01-13 08:29ColonnoDuaria",
+  "distance" : 19943.393754156543,
+  "elePos" : 1217.3499999999997,
+  "eleNeg" : 1189.1199999999992,
+  "analyzeTime" : 161500
+},
+{
+  "name" : "Hverfjall",
+  "distance" : 9208.096030654902,
+  "elePos" : 243.0,
+  "eleNeg" : 256.0,
+  "analyzeTime" : 100300
+},
+{
+  "name" : null,
+  "distance" : 6219.696058158119,
+  "elePos" : 354.24994000000004,
+  "eleNeg" : 397.50988900000004,
+  "analyzeTime" : 116100
+},
+{
+  "name" : "Geiersberg",
+  "distance" : 13159.149275998765,
+  "elePos" : 957.0,
+  "eleNeg" : 1026.0,
+  "analyzeTime" : 67100
+},
+{
+  "name" : "Traccia corrente: 13 GEN 2018 09:28 (6 - 1265)",
+  "distance" : 10622.097402021585,
+  "elePos" : 863.0,
+  "eleNeg" : 837.0,
+  "analyzeTime" : 117700
+},
+{
+  "name" : "2018-02-13 06:39",
+  "distance" : 8549.959161682627,
+  "elePos" : 311.5300000000002,
+  "eleNeg" : 697.9100000000003,
+  "analyzeTime" : 120600
+},
+{
+  "name" : "Cima Mughera, Monte Carone, Monte Guil 1930",
+  "distance" : 18375.54107265358,
+  "elePos" : 1914.4799999999998,
+  "eleNeg" : 1933.71,
+  "analyzeTime" : 141800
+},
+{
+  "name" : "84ma1016 on GPSies.com",
+  "distance" : 7329.8538658440175,
+  "elePos" : 408.0,
+  "eleNeg" : 414.0,
+  "analyzeTime" : 116300
+},
+{
+  "name" : "Current Track: 30 DEC 2017 09:51",
+  "distance" : 7523.09942208889,
+  "elePos" : 387.38,
+  "eleNeg" : 387.38,
+  "analyzeTime" : 51200
+},
+{
+  "name" : null,
+  "distance" : 11403.83287092188,
+  "elePos" : 897.56461608321,
+  "eleNeg" : 897.5646252620929,
+  "analyzeTime" : 73400
+},
+{
+  "name" : "Maroggia-Melano - Campione - Zollmuseum",
+  "distance" : 12810.104132433838,
+  "elePos" : 531.6600000000001,
+  "eleNeg" : 539.2299999999999,
+  "analyzeTime" : 141800
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 13132.12382569537,
+  "elePos" : 809.0,
+  "eleNeg" : 799.0,
+  "analyzeTime" : 89000
+},
+{
+  "name" : "2018-01-17 09:00",
+  "distance" : 18204.18611554943,
+  "elePos" : 1634.5700000000002,
+  "eleNeg" : 1626.5699999999997,
+  "analyzeTime" : 142200
+},
+{
+  "name" : "farno Formico Parafulmin 2018-02-14 10:19",
+  "distance" : 10188.97159691718,
+  "elePos" : 592.6298828125,
+  "eleNeg" : 593.1298828125,
+  "analyzeTime" : 97900
+},
+{
+  "name" : "JU Trois Combes",
+  "distance" : 12395.91737284174,
+  "elePos" : 330.560375485111,
+  "eleNeg" : 304.5603756995543,
+  "analyzeTime" : 104400
+},
+{
+  "name" : "2018-04-21_BurgbergerHörnle_S-Grat",
+  "distance" : 9428.577415121712,
+  "elePos" : 893.0800000000002,
+  "eleNeg" : 912.3000000000002,
+  "analyzeTime" : 123900
+},
+{
+  "name" : null,
+  "distance" : 10229.540145033921,
+  "elePos" : 460.5004124629294,
+  "eleNeg" : 458.60031407490123,
+  "analyzeTime" : 63900
+},
+{
+  "name" : "Traccia 14/2/2018",
+  "distance" : 18986.442880172122,
+  "elePos" : 1554.0,
+  "eleNeg" : 1599.0,
+  "analyzeTime" : 164500
+},
+{
+  "name" : "2018-03-25 15:18:40",
+  "distance" : 11586.20982406939,
+  "elePos" : 695.66,
+  "eleNeg" : 734.6600000000001,
+  "analyzeTime" : 137000
+},
+{
+  "name" : "Traccia corrente: 21 APR 2018 10:16",
+  "distance" : 23089.130200325846,
+  "elePos" : 1766.9100000000012,
+  "eleNeg" : 1814.0100000000011,
+  "analyzeTime" : 227400
+},
+{
+  "name" : "Punta Martin da Voltri 1909",
+  "distance" : 23847.20102277836,
+  "elePos" : 1559.2400000000014,
+  "eleNeg" : 1577.500000000001,
+  "analyzeTime" : 143200
+},
+{
+  "name" : null,
+  "distance" : 7932.093607672522,
+  "elePos" : 422.0,
+  "eleNeg" : 400.0,
+  "analyzeTime" : 252100
+},
+{
+  "name" : "Le Suillet",
+  "distance" : 9017.969449444361,
+  "elePos" : 668.9000000000003,
+  "eleNeg" : 666.8000000000003,
+  "analyzeTime" : 91900
+},
+{
+  "name" : "Traccia corrente: 22 APR 2018 10:46",
+  "distance" : 8507.55865835451,
+  "elePos" : 1026.1999999999998,
+  "eleNeg" : 1032.9299999999998,
+  "analyzeTime" : 125300
+},
+{
+  "name" : null,
+  "distance" : 7038.898850562429,
+  "elePos" : 129.4999818647758,
+  "eleNeg" : 151.8999860206274,
+  "analyzeTime" : 129200
+},
+{
+  "name" : null,
+  "distance" : 954.9364703969491,
+  "elePos" : 46.0,
+  "eleNeg" : 6.0,
+  "analyzeTime" : 62800
+},
+{
+  "name" : "/Track: 25-März-18 12:22:01",
+  "distance" : 10860.368969234141,
+  "elePos" : 935.4999999999995,
+  "eleNeg" : 490.4999999999998,
+  "analyzeTime" : 173300
+},
+{
+  "name" : "2018-04-22 07:57",
+  "distance" : 9696.051725697595,
+  "elePos" : 1009.0,
+  "eleNeg" : 999.0,
+  "analyzeTime" : 148000
+},
+{
+  "name" : "Monte Beigua 1910",
+  "distance" : 24513.077038777654,
+  "elePos" : 1470.3100000000004,
+  "eleNeg" : 1487.1300000000003,
+  "analyzeTime" : 204400
+},
+{
+  "name" : "Anello-Mondonico-SanGenesio-Crocione-Giovenzana-Mondonico",
+  "distance" : 14647.099755356487,
+  "elePos" : 793.2299999999999,
+  "eleNeg" : 722.4000000000003,
+  "analyzeTime" : 133700
+},
+{
+  "name" : "la Palma norden",
+  "distance" : 10571.710226227266,
+  "elePos" : 1036.0,
+  "eleNeg" : 1392.0,
+  "analyzeTime" : 115400
+},
+{
+  "name" : "Jezerca",
+  "distance" : 14737.476801380642,
+  "elePos" : 1924.6120000000003,
+  "eleNeg" : 1930.5300000000004,
+  "analyzeTime" : 167700
+},
+{
+  "name" : "2018-01-14 15:47:28-Trail Run",
+  "distance" : 11986.964408605347,
+  "elePos" : 1113.6899999999996,
+  "eleNeg" : 1101.6699999999996,
+  "analyzeTime" : 147500
+},
+{
+  "name" : "01 Monte Circeo",
+  "distance" : 4988.843005341143,
+  "elePos" : 571.4799999999999,
+  "eleNeg" : 570.5600000000001,
+  "analyzeTime" : 120700
+},
+{
+  "name" : "2018-03-25 09:09",
+  "distance" : 11811.6025059951,
+  "elePos" : 1025.55,
+  "eleNeg" : 1018.5999999999999,
+  "analyzeTime" : 114100
+},
+{
+  "name" : "2018-04-21 14:14:19",
+  "distance" : 12635.086180462216,
+  "elePos" : 956.6800000000003,
+  "eleNeg" : 998.0800000000003,
+  "analyzeTime" : 119600
+},
+{
+  "name" : "2018-01-17  Teveno Barbarossa",
+  "distance" : 8675.246578273505,
+  "elePos" : 1020.49987792969,
+  "eleNeg" : 1020.79992675781,
+  "analyzeTime" : 116200
+},
+{
+  "name" : null,
+  "distance" : 6125.1076226756795,
+  "elePos" : 618.0,
+  "eleNeg" : 589.0,
+  "analyzeTime" : 111800
+},
+{
+  "name" : "Traccia 21/3/2018",
+  "distance" : 11353.164855066821,
+  "elePos" : 938.0,
+  "eleNeg" : 972.0,
+  "analyzeTime" : 119600
+},
+{
+  "name" : "Pizalun",
+  "distance" : 11759.686600667932,
+  "elePos" : 889.1000000000007,
+  "eleNeg" : 892.9000000000007,
+  "analyzeTime" : 99500
+},
+{
+  "name" : "Monti Cucco, Palagia, Fop 1896",
+  "distance" : 19382.919599228153,
+  "elePos" : 1577.9899999999998,
+  "eleNeg" : 1588.5700000000006,
+  "analyzeTime" : 183300
+},
+{
+  "name" : "Mont Vial",
+  "distance" : 6233.517890890948,
+  "elePos" : 586.4400000000002,
+  "eleNeg" : 6.130000000000223,
+  "analyzeTime" : 70200
+},
+{
+  "name" : "2018-03-22 08:25",
+  "distance" : 14667.851005962633,
+  "elePos" : 1395.8899999999999,
+  "eleNeg" : 1316.4799999999998,
+  "analyzeTime" : 82700
+},
+{
+  "name" : "wachau",
+  "distance" : 6460.979013414868,
+  "elePos" : 644.5199999999996,
+  "eleNeg" : 668.9899999999996,
+  "analyzeTime" : 107200
+},
+{
+  "name" : "Monte San Primo da Vassena 1897",
+  "distance" : 22120.555187007776,
+  "elePos" : 1544.37,
+  "eleNeg" : 1541.4800000000007,
+  "analyzeTime" : 202400
+},
+{
+  "name" : "Schönwieskopf",
+  "distance" : 5977.182044516282,
+  "elePos" : 621.0,
+  "eleNeg" : 1004.0,
+  "analyzeTime" : 125100
+},
+{
+  "name" : "TI/I Monte Pravello",
+  "distance" : 9547.923535445561,
+  "elePos" : 784.3910170155931,
+  "eleNeg" : 568.6910141617814,
+  "analyzeTime" : 92100
+},
+{
+  "name" : "2018-04-21 17:30:50",
+  "distance" : 16937.857038003607,
+  "elePos" : 837.76,
+  "eleNeg" : 771.9100000000002,
+  "analyzeTime" : 135300
+},
+{
+  "name" : "Col Santo, Rifugio Lancia 1899",
+  "distance" : 16920.401118996557,
+  "elePos" : 1029.0799999999997,
+  "eleNeg" : 1040.62,
+  "analyzeTime" : 120100
+},
+{
+  "name" : "Vetta Cerro Castel Regina",
+  "distance" : 12146.741384446745,
+  "elePos" : 897.47998046874,
+  "eleNeg" : 897.47998046874,
+  "analyzeTime" : 102800
+},
+{
+  "name" : "Traccia corrente: 24 MAR 2018 07:12",
+  "distance" : 9821.262258312363,
+  "elePos" : 1167.5099999999995,
+  "eleNeg" : 1265.0899999999997,
+  "analyzeTime" : 77200
+},
+{
+  "name" : "Day 31 2017/2018",
+  "distance" : 8866.048868018646,
+  "elePos" : 1059.0,
+  "eleNeg" : 1060.0,
+  "analyzeTime" : 207900
+},
+{
+  "name" : "Lizzola Sasna",
+  "distance" : 8436.658990082182,
+  "elePos" : 1020.97998046877,
+  "eleNeg" : 1022.67993164065,
+  "analyzeTime" : 76600
+},
+{
+  "name" : null,
+  "distance" : 12227.719452937035,
+  "elePos" : 645.3765137309655,
+  "eleNeg" : 584.1765136919219,
+  "analyzeTime" : 85000
+},
+{
+  "name" : "2018-03-24 14:23:07",
+  "distance" : 19570.455639156193,
+  "elePos" : 83.69000000000005,
+  "eleNeg" : 98.59000000000003,
+  "analyzeTime" : 61100
+},
+{
+  "name" : "Utz-Kaltacker-Bdf eff",
+  "distance" : 20162.120957358744,
+  "elePos" : 375.2327414034102,
+  "eleNeg" : 319.032742501003,
+  "analyzeTime" : 186100
+},
+{
+  "name" : "2018-01-04 16:46:36-Trail Run",
+  "distance" : 16541.265957169533,
+  "elePos" : 1300.1800000000003,
+  "eleNeg" : 1287.1999999999998,
+  "analyzeTime" : 120800
+},
+{
+  "name" : "Move",
+  "distance" : 19075.302359527956,
+  "elePos" : 995.7932321258754,
+  "eleNeg" : 1508.0442144299939,
+  "analyzeTime" : 170200
+},
+{
+  "name" : "Stabio - Capolago",
+  "distance" : 14611.319562300216,
+  "elePos" : 438.9520575144302,
+  "eleNeg" : 508.7520508365049,
+  "analyzeTime" : 62400
+},
+{
+  "name" : "Wasserflue Hombergegg",
+  "distance" : 12785.046094980193,
+  "elePos" : 397.986083984375,
+  "eleNeg" : 742.6187744140625,
+  "analyzeTime" : 71900
+},
+{
+  "name" : "2018-01-10 09:00",
+  "distance" : 12414.417099731869,
+  "elePos" : 1106.5700000000002,
+  "eleNeg" : 1103.5800000000004,
+  "analyzeTime" : 55800
+},
+{
+  "name" : "11-FEB-18 03:09:20 PM",
+  "distance" : 14379.431798285768,
+  "elePos" : 1664.0499999999997,
+  "eleNeg" : 1659.2400000000007,
+  "analyzeTime" : 124300
+},
+{
+  "name" : "GPSies Track on GPSies.com",
+  "distance" : 10533.722919268754,
+  "elePos" : 1313.0,
+  "eleNeg" : 690.0,
+  "analyzeTime" : 99200
+},
+{
+  "name" : "Tour de Moron",
+  "distance" : 21893.739279851376,
+  "elePos" : 901.8999999999997,
+  "eleNeg" : 672.3999999999997,
+  "analyzeTime" : 80200
+},
+{
+  "name" : null,
+  "distance" : 567.0032508980721,
+  "elePos" : 0.0,
+  "eleNeg" : 0.0,
+  "analyzeTime" : 50500
+},
+{
+  "name" : "Traccia corrente: 03 FEB 2018 08:20",
+  "distance" : 10492.490132471341,
+  "elePos" : 1310.7699999999995,
+  "eleNeg" : 1312.6899999999996,
+  "analyzeTime" : 114200
+},
+{
+  "name" : "Pfyffer",
+  "distance" : 13000.114493815583,
+  "elePos" : 610.5703724919725,
+  "eleNeg" : 609.8703706312616,
+  "analyzeTime" : 75000
+},
+{
+  "name" : "2018-04-18 07:44",
+  "distance" : 6947.214472551443,
+  "elePos" : 809.7900000000004,
+  "eleNeg" : 817.8100000000004,
+  "analyzeTime" : 75900
+},
+{
+  "name" : "81d91015 on GPSies.com",
+  "distance" : 13774.085006514879,
+  "elePos" : 1103.0,
+  "eleNeg" : 1205.0,
+  "analyzeTime" : 165200
+},
+{
+  "name" : "Lammschlucht",
+  "distance" : 9495.22366004205,
+  "elePos" : 274.92999999999904,
+  "eleNeg" : 108.13999999999908,
+  "analyzeTime" : 63400
+},
+{
+  "name" : "Les Vaivres",
+  "distance" : 10956.116297486627,
+  "elePos" : 556.2999566979812,
+  "eleNeg" : 560.0999522753932,
+  "analyzeTime" : 78200
+},
+{
+  "name" : null,
+  "distance" : 9156.39374959398,
+  "elePos" : 434.39999724361905,
+  "eleNeg" : 434.4999972436192,
+  "analyzeTime" : 73700
+},
+{
+  "name" : "Brumano M. Resegone con neve",
+  "distance" : 12385.885745473342,
+  "elePos" : 1005.0,
+  "eleNeg" : 1008.0,
+  "analyzeTime" : 89100
+},
+{
+  "name" : "SC_1 Porte-La-Novelle - Durban-Corbières",
+  "distance" : 26561.674871739142,
+  "elePos" : 659.8000000000001,
+  "eleNeg" : 571.4999999999999,
+  "analyzeTime" : 141400
+},
+{
+  "name" : null,
+  "distance" : 12454.561963248916,
+  "elePos" : 430.74717889038163,
+  "eleNeg" : 430.7471871162753,
+  "analyzeTime" : 116600
+},
+{
+  "name" : "Move",
+  "distance" : 8425.622687975092,
+  "elePos" : 913.5742833426661,
+  "eleNeg" : 919.9742772391501,
+  "analyzeTime" : 129300
+},
+{
+  "name" : "SC2a_ Durban-Corbières - Embres-et-Castelmaure",
+  "distance" : 11317.104760983686,
+  "elePos" : 484.19999999999993,
+  "eleNeg" : 404.7,
+  "analyzeTime" : 63900
+},

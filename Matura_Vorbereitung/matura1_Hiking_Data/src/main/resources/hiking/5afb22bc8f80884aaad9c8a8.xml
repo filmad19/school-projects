@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trk>
+    <trkseg>
+        <trkpt lat="48.75904951093326" lon="13.820308916557337">
+            <ele>0.0</ele>
+        </trkpt>
+        <trkpt lat="48.758581069689576" lon="13.820359991044441">
+            <ele>0.0</ele>
+        </trkpt>
+        <trkpt lat="48.756615828533896" lon="13.818384784386533">
+            <ele>0.0</ele>
+        </trkpt>
+        <trkpt lat="48.75542881251159" lon="13.817811490270305">
+            <ele>0.0</ele>
+        </trkpt>
+        <trkpt lat="48.75440548479709" lon="13.817692949683506">
+            <ele>0.0</ele>
+        </trkpt>
+    </trkseg>
+</trk>

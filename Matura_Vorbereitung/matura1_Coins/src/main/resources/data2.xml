@@ -1,0 +1,15 @@
+<Muenzen>
+  <Durchmesser>
+    <Mittelwert Einheit="cm">3.2</Mittelwert>
+    <STD Einheit="cm">0.1</STD>
+  </Durchmesser>
+  <Dicke>
+    <Mittelwert Einheit="cm">0.6</Mittelwert>
+    <STD Einheit="cm">0.1</STD>
+  </Dicke>
+  <Masse>
+    <Mittelwert Einheit="g">45.5</Mittelwert>
+    <STD Einheit="g">0.1</STD>
+  </Masse>
+</Muenzen>
+

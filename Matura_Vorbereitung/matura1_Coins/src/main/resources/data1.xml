@@ -1,0 +1,35 @@
+<GoldMuenzen>
+  <Messungen>
+    <Messung>
+      <Radius>1.060</Radius><Hoehe>0.190</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.055</Radius><Hoehe>0.200</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.050</Radius><Hoehe>0.180</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.060</Radius><Hoehe>0.180</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.055</Radius><Hoehe>0.190</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.050</Radius><Hoehe>0.200</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.025</Radius><Hoehe>0.150</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.050</Radius><Hoehe>0.150</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.050</Radius><Hoehe>0.150</Hoehe>
+    </Messung>
+    <Messung>
+      <Radius>1.025</Radius><Hoehe>0.170</Hoehe>
+    </Messung>
+  </Messungen>
+</GoldMuenzen>
+
